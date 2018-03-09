@@ -1,0 +1,43 @@
+{
+    "graph": {
+        "average_degree": 0.0, 
+        "clique_number": 1, 
+        "connected_components_number": 7, 
+        "data": ":F", 
+        "has_multiple_edges": false, 
+        "is_arc_transitive": true, 
+        "is_bipartite": true, 
+        "is_cayley": false, 
+        "is_distance_regular": false, 
+        "is_distance_transitive": false, 
+        "is_edge_transitive": true, 
+        "is_eulerian": true, 
+        "is_forest": true, 
+        "is_hamiltonian": false, 
+        "is_overfull": false, 
+        "is_partial_cube": false, 
+        "is_regular": true, 
+        "is_split": true, 
+        "is_strongly_regular": false, 
+        "is_tree": false, 
+        "is_vertex_transitive": true, 
+        "name": "7-Anticlique", 
+        "number_of_loops": 0, 
+        "order": 7, 
+        "size": 0, 
+        "triangles_count": 0
+    }, 
+    "graph_vt": {
+        "vt_index": 1
+    }, 
+    "object": {
+        "alias": [
+            "7-Anticlique", 
+            "7K1"
+        ], 
+        "unique_id": {
+            "bliss": "facad751e581ca913e8bcf4feb0bef12cb37c14bd7e611dffe37db1edfaacd26", 
+            "sage": "facad751e581ca913e8bcf4feb0bef12cb37c14bd7e611dffe37db1edfaacd26"
+        }
+    }
+}

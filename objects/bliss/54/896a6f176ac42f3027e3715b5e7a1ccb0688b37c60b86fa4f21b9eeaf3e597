@@ -1,0 +1,51 @@
+{
+    "graph": {
+        "average_degree": 3.0, 
+        "clique_number": 2, 
+        "connected_components_number": 1, 
+        "data": ":~?@O__E@_WKC__QB_gSF`_aFaGcJa_qJbGsNb`ANcHCRc`QRdHSVd`aVeHcZe`qZfHs^faA^gICbgaQbhISfhaafiIcjiaqjjIsnjbAnkJCrkbQrlJSvlbavmJczmbqznJs~ncA~oKDBocRBpKTFpcbFqG@JRG@HQw@IRN", 
+        "diameter": 21, 
+        "girth": 4, 
+        "has_multiple_edges": false, 
+        "is_arc_transitive": false, 
+        "is_bipartite": true, 
+        "is_cayley": true, 
+        "is_distance_regular": false, 
+        "is_distance_transitive": false, 
+        "is_edge_transitive": false, 
+        "is_eulerian": false, 
+        "is_forest": false, 
+        "is_hamiltonian": true, 
+        "is_overfull": false, 
+        "is_partial_cube": true, 
+        "is_regular": true, 
+        "is_split": false, 
+        "is_strongly_regular": false, 
+        "is_tree": false, 
+        "is_vertex_transitive": true, 
+        "name": "40-Prism", 
+        "number_of_loops": 0, 
+        "order": 80, 
+        "size": 120, 
+        "triangles_count": 0
+    }, 
+    "graph_cvt": {
+        "cvt_index": 13, 
+        "is_moebius_ladder": false, 
+        "is_prism": true, 
+        "is_spx": false
+    }, 
+    "graph_vt": {}, 
+    "object": {
+        "alias": [
+            "40-Prism", 
+            "GP(40,1)", 
+            "Generalized Petersen graph (40, 1)", 
+            "Y40"
+        ], 
+        "unique_id": {
+            "bliss": "54896a6f176ac42f3027e3715b5e7a1ccb0688b37c60b86fa4f21b9eeaf3e597", 
+            "sage": "4adc8b8200f9a7c3b8ff7cd2790257fbed5f2ed066b4a18968778831c50d1e42"
+        }
+    }
+}

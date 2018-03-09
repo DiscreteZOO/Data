@@ -1,0 +1,49 @@
+{
+    "graph": {
+        "average_degree": 3.0, 
+        "clique_number": 2, 
+        "connected_components_number": 1, 
+        "data": ":oa?WKEUFDQ@KSNECP@KOTBAo_saNIcowSMDTKtbT[tWKqq[ohLJRak{nOKSQ\\Gh^PwCdtD]OvCllL?TjGA`R?Rin", 
+        "diameter": 6, 
+        "girth": 8, 
+        "has_multiple_edges": false, 
+        "is_arc_transitive": false, 
+        "is_bipartite": true, 
+        "is_cayley": true, 
+        "is_distance_regular": false, 
+        "is_distance_transitive": false, 
+        "is_edge_transitive": false, 
+        "is_eulerian": false, 
+        "is_forest": false, 
+        "is_hamiltonian": true, 
+        "is_overfull": false, 
+        "is_partial_cube": false, 
+        "is_regular": true, 
+        "is_split": false, 
+        "is_strongly_regular": false, 
+        "is_tree": false, 
+        "is_vertex_transitive": true, 
+        "name": "Generalized Petersen graph (24, 7)", 
+        "number_of_loops": 0, 
+        "order": 48, 
+        "size": 72, 
+        "triangles_count": 0
+    }, 
+    "graph_cvt": {
+        "cvt_index": 2, 
+        "is_moebius_ladder": false, 
+        "is_prism": false, 
+        "is_spx": false
+    }, 
+    "graph_vt": {}, 
+    "object": {
+        "alias": [
+            "GP(24,7)", 
+            "Generalized Petersen graph (24, 7)"
+        ], 
+        "unique_id": {
+            "bliss": "1e5296c0093d698f9c8f1332f07a283f18515ce30b41568c5421bf45c7c067ad", 
+            "sage": "4360db1f44f1ce71791d34913e1f3e8c66ba8af92ce705b4a3136d880ca43f35"
+        }
+    }
+}

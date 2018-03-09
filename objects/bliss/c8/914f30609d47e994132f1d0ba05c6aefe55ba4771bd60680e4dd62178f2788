@@ -1,0 +1,51 @@
+{
+    "graph": {
+        "average_degree": 3.0, 
+        "clique_number": 2, 
+        "connected_components_number": 1, 
+        "data": ":~?A?__E@_WKC__QB_gSF`_aFaGcJa_qJbGsNb`ANcHCRc`QRdHSVd`aVeHcZe`qZfHs^faA^gICbgaQbhISfhaafiIcjiaqjjIsnjbAnkJCrkbQrlJSvlbavmJczmbqznJs~ncA~oKDBocRBpKTFpcbFqKdJqcrJrKtNrdBNsLDRsdRRtLTVtdbVuLdZudrZvLt^veB^wMDbweRbxMTfxebfyMdjyerjzMtnzfBn{NDr{fRr|NTv|fbv}G@z^G@x]w@y^N", 
+        "diameter": 33, 
+        "girth": 4, 
+        "has_multiple_edges": false, 
+        "is_arc_transitive": false, 
+        "is_bipartite": true, 
+        "is_cayley": true, 
+        "is_distance_regular": false, 
+        "is_distance_transitive": false, 
+        "is_edge_transitive": false, 
+        "is_eulerian": false, 
+        "is_forest": false, 
+        "is_hamiltonian": true, 
+        "is_overfull": false, 
+        "is_partial_cube": true, 
+        "is_regular": true, 
+        "is_split": false, 
+        "is_strongly_regular": false, 
+        "is_tree": false, 
+        "is_vertex_transitive": true, 
+        "name": "64-Prism", 
+        "number_of_loops": 0, 
+        "order": 128, 
+        "size": 192, 
+        "triangles_count": 0
+    }, 
+    "graph_cvt": {
+        "cvt_index": 34, 
+        "is_moebius_ladder": false, 
+        "is_prism": true, 
+        "is_spx": false
+    }, 
+    "graph_vt": {}, 
+    "object": {
+        "alias": [
+            "64-Prism", 
+            "GP(64,1)", 
+            "Generalized Petersen graph (64, 1)", 
+            "Y64"
+        ], 
+        "unique_id": {
+            "bliss": "c8914f30609d47e994132f1d0ba05c6aefe55ba4771bd60680e4dd62178f2788", 
+            "sage": "998eb406c4048781d7b8c7f8c9c3ba26ff3c008f6b39035e9bb43b4eb92e1edc"
+        }
+    }
+}

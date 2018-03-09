@@ -1,0 +1,44 @@
+{
+    "graph": {
+        "average_degree": 3.0, 
+        "connected_components_number": 1, 
+        "data": ":C_dQ", 
+        "diameter": 2, 
+        "girth": 2, 
+        "has_multiple_edges": true, 
+        "is_arc_transitive": false, 
+        "is_bipartite": true, 
+        "is_eulerian": false, 
+        "is_forest": false, 
+        "is_overfull": false, 
+        "is_regular": true, 
+        "is_tree": false, 
+        "is_vertex_transitive": true, 
+        "name": "2-Prism", 
+        "number_of_loops": 0, 
+        "order": 4, 
+        "size": 6
+    }, 
+    "graph_cvt": {
+        "is_moebius_ladder": false, 
+        "is_prism": true, 
+        "truncation": [
+            "bliss", 
+            "f2ba1844452da87512b45c9e9cdaaea75901062115cee376406b4797cf994aea"
+        ]
+    }, 
+    "graph_spx": {
+        "spx_r": 1, 
+        "spx_s": 1
+    }, 
+    "graph_vt": {}, 
+    "object": {
+        "alias": [
+            "2-Prism", 
+            "Y2"
+        ], 
+        "unique_id": {
+            "sage": "ff306e376a018631343729fd8147b8b8d46433e38c83244dd575906ea9af5311"
+        }
+    }
+}

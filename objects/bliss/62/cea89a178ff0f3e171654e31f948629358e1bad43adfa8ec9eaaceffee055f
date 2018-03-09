@@ -1,0 +1,45 @@
+{
+    "graph": {
+        "average_degree": 25.0, 
+        "clique_number": 14, 
+        "connected_components_number": 1, 
+        "data": ":[a@_A_@B_@AB_@ACD_@ABCD_@ABCEF_@ABCDEF_@ABCDEGH_@ABCDEFGH_@ABCDEFGIJ_@ABCDEFGHIJ_@ABCDEFGHIKL_@ABCDEFGHIJKL_@ABCDEFGHIJKMN_@ABCDEFGHIJKLMN_@ABCDEFGHIJKLMOP_@ABCDEFGHIJKLMNOP_@ABCDEFGHIJKLMNOQR_@ABCDEFGHIJKLMNOPQR_@ABCDEFGHIJKLMNOPQST_@ABCDEFGHIJKLMNOPQRST_@ABCDEFGHIJKLMNOPQRSUV_@ABCDEFGHIJKLMNOPQRSTUV_@ABCDEFGHIJKLMNOPQRSTUWX_@ABCDEFGHIJKLMNOPQRSTUVW", 
+        "diameter": 2, 
+        "girth": 3, 
+        "has_multiple_edges": false, 
+        "is_arc_transitive": false, 
+        "is_bipartite": false, 
+        "is_cayley": true, 
+        "is_distance_regular": false, 
+        "is_distance_transitive": false, 
+        "is_edge_transitive": false, 
+        "is_eulerian": false, 
+        "is_forest": false, 
+        "is_hamiltonian": true, 
+        "is_overfull": false, 
+        "is_partial_cube": false, 
+        "is_regular": true, 
+        "is_split": false, 
+        "is_strongly_regular": false, 
+        "is_tree": false, 
+        "is_vertex_transitive": true, 
+        "name": "28-Antihole", 
+        "number_of_loops": 0, 
+        "odd_girth": 3, 
+        "order": 28, 
+        "size": 350, 
+        "triangles_count": 2576
+    }, 
+    "graph_vt": {
+        "vt_index": 25846
+    }, 
+    "object": {
+        "alias": [
+            "28-Antihole"
+        ], 
+        "unique_id": {
+            "bliss": "62cea89a178ff0f3e171654e31f948629358e1bad43adfa8ec9eaaceffee055f", 
+            "sage": "21c6d694c9e90a2731f6b6bcdb4f99f7838a1e766016671bb5669fbb8018329d"
+        }
+    }
+}

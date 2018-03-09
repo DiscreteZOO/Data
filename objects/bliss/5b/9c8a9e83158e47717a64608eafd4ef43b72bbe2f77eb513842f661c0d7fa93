@@ -1,0 +1,51 @@
+{
+    "graph": {
+        "average_degree": 3.0, 
+        "clique_number": 2, 
+        "connected_components_number": 1, 
+        "data": ":~?EO_G?W@_E?oC_G@GB_I@OF_WAGF_aAOJ_gBGJ_qBON_wCGN`ACOR`GDGR`QDOV`WEGV`aEOZ`gFGZ`qFO^`wGG^aAGObaGHGbaQHOfaWIGfaaIOjagJGjaqJOnawKGnbAKOrbGLGrbQLOvbWMGvbaMOzbgNGzbqNO~bwOG~cAOPBcGPHBcQPPFcWQHFcaQPJcgRHJcqRPNcwSHNdASPRdGTHRdQTPVdWUHVdaUPZdgVHZdqVP^dwWH^eAWPbeGXHbeQXPfeWYHfeaYPjegZHjeqZPnew[HnfA[PrfG\\HrfQ\\PvfW]Hvfa]Pzfg^Hzfq^P~fw_H~gA_QBgG`IBgQ`QFgWaIFgaaQJggbIJgqbQNgwcINhAcQRhGdIRhQdQVhWeIVhaeQZhgfIZhqfQ^hwgI^iAgQbiGhIbiQhQfiWiIfiaiQjigjIjiqjQniwkInjAkQrjGlIrjQlQvjWmIvjamQzjgnIzjqnQ~jwoI~kAoRBkGpJBkQpRFkWqJFkaqRJkgrJJkqrRNkwsJNlAsRRlGtJRlQtRVlWuJVlauRZlgvJZlqvR^lwwJ^mAwRbmGxJbmQxRfmWyJfmayRjmgzJjmqzRnmw{JnnA{RrnG|JrnQ|RvnW}Jvna}Rzng~Jznq~R~nx?J~oB?SBoH@KBoR@SFoXAKFobASJohBKJorBSNoxCKNpBCSRpHDKRpRDSVpXEKVpbESZphFKZprFS^pxGK^qBGSbqHHKbqRHSfqXIKfqbISjqhJKjqrJSnqxKKnrBKSrrHLKrrRLSvrXMKvrbMSzrhNKzrrNS~rxOK~sBOTBsHPLBsRPTFsXQLFsbQTJshRLJsrRTNsxSLNtBSTRtHTLRtRTTVtXULVtbUTZthVLZtrVT^txWL^uBWTbuHXLbuRXTfuXYLfubYTjuhZLjurZTnux[LnvB[TrvH\\LrvR\\TvvX]Lvvb]Tzvh^Lzvr^T~vx_L~wB_UBwH`MBwR`UFwXaMFwa?EJWq?EHWm?EIWr", 
+        "diameter": 101, 
+        "girth": 4, 
+        "has_multiple_edges": false, 
+        "is_arc_transitive": false, 
+        "is_bipartite": true, 
+        "is_cayley": true, 
+        "is_distance_regular": false, 
+        "is_distance_transitive": false, 
+        "is_edge_transitive": false, 
+        "is_eulerian": false, 
+        "is_forest": false, 
+        "is_hamiltonian": true, 
+        "is_overfull": false, 
+        "is_partial_cube": true, 
+        "is_regular": true, 
+        "is_split": false, 
+        "is_strongly_regular": false, 
+        "is_tree": false, 
+        "is_vertex_transitive": true, 
+        "name": "200-Prism", 
+        "number_of_loops": 0, 
+        "order": 400, 
+        "size": 600, 
+        "triangles_count": 0
+    }, 
+    "graph_cvt": {
+        "cvt_index": 17, 
+        "is_moebius_ladder": false, 
+        "is_prism": true, 
+        "is_spx": false
+    }, 
+    "graph_vt": {}, 
+    "object": {
+        "alias": [
+            "200-Prism", 
+            "GP(200,1)", 
+            "Generalized Petersen graph (200, 1)", 
+            "Y200"
+        ], 
+        "unique_id": {
+            "bliss": "5b9c8a9e83158e47717a64608eafd4ef43b72bbe2f77eb513842f661c0d7fa93", 
+            "sage": "09bbb0e8a177c984c602a18a761c3b53b59f922a33a07f295ab9432684dad5b6"
+        }
+    }
+}

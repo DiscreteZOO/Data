@@ -1,0 +1,44 @@
+{
+    "graph": {
+        "average_degree": 9.0, 
+        "clique_number": 2, 
+        "connected_components_number": 1, 
+        "data": ":Sa@````````_BCDEFGHI_ACDEFGHI_ABDEFGHI_ABCEFGHI_ABCDFGHI_ABCDEGHI_ABCDEFHI_ABCDEFGI_ABCDEFGH", 
+        "diameter": 3, 
+        "girth": 4, 
+        "has_multiple_edges": false, 
+        "is_arc_transitive": true, 
+        "is_bipartite": true, 
+        "is_cayley": true, 
+        "is_distance_regular": true, 
+        "is_distance_transitive": true, 
+        "is_edge_transitive": true, 
+        "is_eulerian": false, 
+        "is_forest": false, 
+        "is_hamiltonian": true, 
+        "is_overfull": false, 
+        "is_partial_cube": false, 
+        "is_regular": true, 
+        "is_split": false, 
+        "is_strongly_regular": false, 
+        "is_tree": false, 
+        "is_vertex_transitive": true, 
+        "name": "Bipartite double cover of K10", 
+        "number_of_loops": 0, 
+        "order": 20, 
+        "size": 90, 
+        "triangles_count": 0
+    }, 
+    "graph_vt": {
+        "vt_index": 440
+    }, 
+    "object": {
+        "alias": [
+            "Bipartite double cover of K10"
+        ], 
+        "unique_id": {
+            "bliss": "93de7d75f36c81b6cdb869a70f0191ac632796b62d131aad982212c58971dcc5", 
+            "sage": "a26d04c3076014641f2533fe7370808b1778444f0ed8c2526cf7bdb9814dad33"
+        }
+    }
+}

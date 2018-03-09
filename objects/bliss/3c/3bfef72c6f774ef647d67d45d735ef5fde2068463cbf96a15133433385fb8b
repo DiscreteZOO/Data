@@ -1,0 +1,55 @@
+{
+    "_ref": [
+        [
+            "bliss", 
+            "df796fe530dedc34fb54d33e5c9e6bb1d4938e62a534b32f36f60605059aa5b6"
+        ]
+    ], 
+    "graph": {
+        "average_degree": 3.0, 
+        "clique_number": 3, 
+        "connected_components_number": 1, 
+        "data": ":{`?WKCFA`@WcMNFCqH?mLDcqh[qZMecxpQ^Ogshx]_WgeYPifSitix}o_kgZQI}boHKIVCelvJim{ktj\\azNgWy\\RNaqxlL~@n?ZmGBU?u\\^", 
+        "diameter": 10, 
+        "girth": 3, 
+        "has_multiple_edges": false, 
+        "is_arc_transitive": false, 
+        "is_bipartite": false, 
+        "is_cayley": false, 
+        "is_distance_regular": false, 
+        "is_distance_transitive": false, 
+        "is_edge_transitive": false, 
+        "is_eulerian": false, 
+        "is_forest": false, 
+        "is_hamiltonian": true, 
+        "is_overfull": false, 
+        "is_partial_cube": false, 
+        "is_regular": true, 
+        "is_split": false, 
+        "is_strongly_regular": false, 
+        "is_tree": false, 
+        "is_vertex_transitive": true, 
+        "name": "Truncated Desargues graph", 
+        "number_of_loops": 0, 
+        "odd_girth": 3, 
+        "order": 60, 
+        "size": 90, 
+        "triangles_count": 20
+    }, 
+    "graph_cvt": {
+        "cvt_index": 32, 
+        "is_moebius_ladder": false, 
+        "is_prism": false, 
+        "is_spx": false
+    }, 
+    "graph_vt": {}, 
+    "object": {
+        "alias": [
+            "Truncated Desargues graph"
+        ], 
+        "unique_id": {
+            "bliss": "3c3bfef72c6f774ef647d67d45d735ef5fde2068463cbf96a15133433385fb8b", 
+            "sage": "27924af7a9c0956f201a0aa9a8ada02a4135e91226326734837360d5a14d55e2"
+        }
+    }
+}

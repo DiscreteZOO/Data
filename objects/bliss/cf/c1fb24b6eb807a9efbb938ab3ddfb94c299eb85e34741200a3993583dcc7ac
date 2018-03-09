@@ -1,0 +1,42 @@
+{
+    "graph": {
+        "average_degree": 15.0, 
+        "clique_number": 6, 
+        "connected_components_number": 1, 
+        "data": ":WcAB`BC`BCaBCDE`ABDEF_@DEF_@ABCGH_@ACDHI_@ABDFGIJ_@ABCFGH_@ABEFGJL_@CDEGHIKM_ABCEHKLM_ACDEFGHIJKLNO_ACDEFHIJLMNO_@BDEFIKLMNQ_@ABCEGHIJLOQR_@ABCDGHIJLOPR_@ABDEFHJKMNORS_@ABCDEFGJKMNOT", 
+        "diameter": 2, 
+        "girth": 3, 
+        "has_multiple_edges": false, 
+        "is_arc_transitive": false, 
+        "is_bipartite": false, 
+        "is_cayley": true, 
+        "is_distance_regular": false, 
+        "is_distance_transitive": false, 
+        "is_edge_transitive": false, 
+        "is_eulerian": false, 
+        "is_forest": false, 
+        "is_hamiltonian": true, 
+        "is_overfull": false, 
+        "is_partial_cube": false, 
+        "is_regular": true, 
+        "is_split": false, 
+        "is_strongly_regular": false, 
+        "is_tree": false, 
+        "is_vertex_transitive": true, 
+        "number_of_loops": 0, 
+        "odd_girth": 3, 
+        "order": 24, 
+        "size": 180, 
+        "triangles_count": 512
+    }, 
+    "graph_vt": {
+        "vt_index": 13644
+    }, 
+    "object": {
+        "alias": [], 
+        "unique_id": {
+            "bliss": "cfc1fb24b6eb807a9efbb938ab3ddfb94c299eb85e34741200a3993583dcc7ac", 
+            "sage": "6baf7e4257382a6edfc220dfee24125535a730141d19f26f1bc2b433db72735b"
+        }
+    }
+}

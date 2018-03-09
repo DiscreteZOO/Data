@@ -1,0 +1,49 @@
+{
+    "graph": {
+        "average_degree": 3.0, 
+        "clique_number": 2, 
+        "connected_components_number": 1, 
+        "data": ":~?C?_gA?[@?cB_cA?c@?[A_KG@[F@cF`CH@cI@[D_sNA[OAcNaCPA[QAcL`sWB[VBcVbCXBcYB[Tas^C[_Cc^cC`C[aCc\\bsgD[fDcfdChDciD[dcsnE[oEcneCpE[qEcldswF[vFcvfCxFcyF[tes~G\\?Gc~gD@G\\AGc|ftGH\\FHdFhDHHdIH\\DgtNI\\OIdNiDPI\\QIdLhtWJ\\VJdVjDXJdYJ\\Tit^K\\_Kd^kD`K\\aKd\\jtgL\\fLdflDhLdiL\\dktnM\\oMdnmDpM\\qMdlltwN\\vNdvnDxNdyN\\tmt~O]?Od~oE@O]AOd|nuGP]FPeFpEHPeIP]DouNQ]OQeNqEPQ]QQeLpuWR]VReVrEXReYR]Tqu^S]_Se^sE`S]aSe\\rugT]fTeftEhTeiT]dsunU]oUenuEpU]qUeltuwV]vVevvExVeyV]tuu~W^?We~wF@W^AWe|vvGX^FXfFxFHXfIX^DwvNY^OYfNyFPY^QYfLxvWZ^VZfVzFXZfYZ^Tyv^[^_[f`[^a[f^{F\\zvm\\Jl|Rl|Rj|Jk{zk|Bj|nd{vm]nn]vo]fp]fq]nr]s?]zw_By^[?^J{", 
+        "diameter": 33, 
+        "girth": 6, 
+        "has_multiple_edges": false, 
+        "is_arc_transitive": false, 
+        "is_bipartite": true, 
+        "is_cayley": true, 
+        "is_distance_regular": false, 
+        "is_distance_transitive": false, 
+        "is_edge_transitive": false, 
+        "is_eulerian": false, 
+        "is_forest": false, 
+        "is_hamiltonian": true, 
+        "is_overfull": false, 
+        "is_partial_cube": false, 
+        "is_regular": true, 
+        "is_split": false, 
+        "is_strongly_regular": false, 
+        "is_tree": false, 
+        "is_vertex_transitive": true, 
+        "name": "Generalized Petersen graph (128, 63)", 
+        "number_of_loops": 0, 
+        "order": 256, 
+        "size": 384, 
+        "triangles_count": 0
+    }, 
+    "graph_cvt": {
+        "cvt_index": 85, 
+        "is_moebius_ladder": false, 
+        "is_prism": false, 
+        "is_spx": false
+    }, 
+    "graph_vt": {}, 
+    "object": {
+        "alias": [
+            "GP(128,63)", 
+            "Generalized Petersen graph (128, 63)"
+        ], 
+        "unique_id": {
+            "bliss": "d1f536dfb6816f39520c04d0fe05624b2d3cdce6f9c6b2e21c86c508f4e7dd08", 
+            "sage": "b7961e3135403d0bd95a73d07d3b6801393144de7847149c23722c1b3894c014"
+        }
+    }
+}

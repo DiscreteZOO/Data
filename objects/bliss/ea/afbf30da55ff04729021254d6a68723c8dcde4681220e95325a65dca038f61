@@ -1,0 +1,50 @@
+{
+    "graph": {
+        "average_degree": 3.0, 
+        "clique_number": 3, 
+        "connected_components_number": 4, 
+        "data": ":W__`A_@aBCfEeFefHgHIlKkLklNmNOrQqRqrTsTU", 
+        "girth": 3, 
+        "has_multiple_edges": false, 
+        "is_arc_transitive": false, 
+        "is_bipartite": false, 
+        "is_cayley": false, 
+        "is_distance_regular": false, 
+        "is_distance_transitive": false, 
+        "is_edge_transitive": false, 
+        "is_eulerian": false, 
+        "is_forest": false, 
+        "is_hamiltonian": false, 
+        "is_overfull": false, 
+        "is_partial_cube": false, 
+        "is_regular": true, 
+        "is_split": false, 
+        "is_strongly_regular": false, 
+        "is_tree": false, 
+        "is_vertex_transitive": true, 
+        "name": "4Y3", 
+        "number_of_loops": 0, 
+        "odd_girth": 3, 
+        "order": 24, 
+        "size": 36, 
+        "triangles_count": 8
+    }, 
+    "graph_cvt": {
+        "is_moebius_ladder": false, 
+        "is_prism": false, 
+        "is_spx": false
+    }, 
+    "graph_vt": {
+        "vt_index": 27
+    }, 
+    "object": {
+        "alias": [
+            "4GP(3,1)", 
+            "4Y3"
+        ], 
+        "unique_id": {
+            "bliss": "eaafbf30da55ff04729021254d6a68723c8dcde4681220e95325a65dca038f61", 
+            "sage": "e9a3b2f32ded70b361675c353af38cef612a6f38132bd982e68d8010779f2578"
+        }
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "graph": {
+        "average_degree": 3.0, 
+        "clique_number": 4, 
+        "connected_components_number": 2, 
+        "data": ":Ga@_QtKVDZ", 
+        "girth": 3, 
+        "has_multiple_edges": false, 
+        "is_arc_transitive": true, 
+        "is_bipartite": false, 
+        "is_cayley": false, 
+        "is_distance_regular": false, 
+        "is_distance_transitive": false, 
+        "is_edge_transitive": true, 
+        "is_eulerian": false, 
+        "is_forest": false, 
+        "is_hamiltonian": false, 
+        "is_overfull": false, 
+        "is_partial_cube": false, 
+        "is_regular": true, 
+        "is_split": false, 
+        "is_strongly_regular": false, 
+        "is_tree": false, 
+        "is_vertex_transitive": true, 
+        "name": "2K4", 
+        "number_of_loops": 0, 
+        "odd_girth": 3, 
+        "order": 8, 
+        "size": 12, 
+        "triangles_count": 8
+    }, 
+    "graph_cvt": {
+        "is_moebius_ladder": false, 
+        "is_prism": false, 
+        "is_spx": false
+    }, 
+    "graph_vt": {
+        "vt_index": 7
+    }, 
+    "object": {
+        "alias": [
+            "2K4"
+        ], 
+        "unique_id": {
+            "bliss": "7645726c718985ba239ad26212e4dbad6cc6609b83d8f7f2d7b145ad08fb4e2b", 
+            "sage": "d795e2ecfa3bc9e39c70f291c8320c3e8a1cfbb400d39313a28bae55697452e2"
+        }
+    }
+}

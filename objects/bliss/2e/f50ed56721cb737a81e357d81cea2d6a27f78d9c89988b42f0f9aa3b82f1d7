@@ -1,0 +1,47 @@
+{
+    "graph": {
+        "average_degree": 18.0, 
+        "chromatic_index": 19, 
+        "clique_number": 19, 
+        "connected_components_number": 1, 
+        "data": ":R__@_@A_@AB_@ABC_@ABCD_@ABCDE_@ABCDEF_@ABCDEFG_@ABCDEFGH_@ABCDEFGHI_@ABCDEFGHIJ_@ABCDEFGHIJK_@ABCDEFGHIJKL_@ABCDEFGHIJKLM_@ABCDEFGHIJKLMN_@ABCDEFGHIJKLMNO_@ABCDEFGHIJKLMNOP", 
+        "diameter": 1, 
+        "girth": 3, 
+        "has_multiple_edges": false, 
+        "is_arc_transitive": true, 
+        "is_bipartite": false, 
+        "is_cayley": true, 
+        "is_distance_regular": false, 
+        "is_distance_transitive": false, 
+        "is_edge_transitive": true, 
+        "is_eulerian": true, 
+        "is_forest": false, 
+        "is_hamiltonian": true, 
+        "is_overfull": true, 
+        "is_partial_cube": false, 
+        "is_regular": true, 
+        "is_split": true, 
+        "is_strongly_regular": false, 
+        "is_tree": false, 
+        "is_vertex_transitive": true, 
+        "name": "19-Clique", 
+        "number_of_loops": 0, 
+        "odd_girth": 3, 
+        "order": 19, 
+        "size": 171, 
+        "triangles_count": 969
+    }, 
+    "graph_vt": {
+        "vt_index": 60
+    }, 
+    "object": {
+        "alias": [
+            "19-Clique", 
+            "K19"
+        ], 
+        "unique_id": {
+            "bliss": "2ef50ed56721cb737a81e357d81cea2d6a27f78d9c89988b42f0f9aa3b82f1d7", 
+            "sage": "2ef50ed56721cb737a81e357d81cea2d6a27f78d9c89988b42f0f9aa3b82f1d7"
+        }
+    }
+}

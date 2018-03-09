@@ -1,0 +1,46 @@
+{
+    "graph": {
+        "average_degree": 16.0, 
+        "chromatic_index": 17, 
+        "clique_number": 5, 
+        "connected_components_number": 1, 
+        "data": ":Xd@ABC`ABC`ABC`ABC_ABCEFG_ABCDFG_ABCDEG_ABCDEF_@BCEFGIJK_@BCDFGHJK_@BCDEGHIK_@BCDEFHIJ_@ACEFGIJKMNO_@ACDFGHJKLNO_@ACDEGHIKLMO_@ACDEFHIJLMN_@ABEFGIJKMNOQRS_@ABDFGHJKLNOPRS_@ABDEGHIKLMOPQS_@ABDEFHIJLMNPQR", 
+        "diameter": 2, 
+        "girth": 3, 
+        "has_multiple_edges": false, 
+        "is_arc_transitive": true, 
+        "is_bipartite": false, 
+        "is_cayley": true, 
+        "is_distance_regular": true, 
+        "is_distance_transitive": true, 
+        "is_edge_transitive": true, 
+        "is_eulerian": true, 
+        "is_forest": false, 
+        "is_hamiltonian": true, 
+        "is_overfull": true, 
+        "is_partial_cube": false, 
+        "is_regular": true, 
+        "is_split": false, 
+        "is_strongly_regular": true, 
+        "is_tree": false, 
+        "is_vertex_transitive": true, 
+        "name": "Orthogonal array graph OA(4, 5)", 
+        "number_of_loops": 0, 
+        "odd_girth": 3, 
+        "order": 25, 
+        "size": 200, 
+        "triangles_count": 600
+    }, 
+    "graph_vt": {
+        "vt_index": 413
+    }, 
+    "object": {
+        "alias": [
+            "Orthogonal array graph OA(4, 5)"
+        ], 
+        "unique_id": {
+            "bliss": "ad2375176ac66e025dc7e721159ac8adafde4d8b6ef1b85b68d970edf8679589", 
+            "sage": "ffb61334c5858c072d4a3628d9d130329211ed59ac8d863f6d4d4eced5f3b6a6"
+        }
+    }
+}

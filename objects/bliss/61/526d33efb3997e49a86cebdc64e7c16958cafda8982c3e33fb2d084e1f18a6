@@ -1,0 +1,52 @@
+{
+    "graph": {
+        "average_degree": 3.0, 
+        "clique_number": 2, 
+        "connected_components_number": 1, 
+        "data": ":~?GE_C?E?S?O@oA_B?K?k@?BOD_L?[@KA?DOH_T?k@kB?FOL_\\?{AKC?HOP_d@KAkD?JOT_l@[BKE?LOX_t@kBkF?NO\\_|@{CKG?PO``DAKCkH?ROd`LA[DKI?TOh`TAkDkJ?VOl`\\A{EKK?XOp`dBKEkL?ZOt`lB[FKM?\\Ox`tBkFkN?^O|`|B{GKO?`P@aDCKGkP?bPDaLC[HKQ?dPHaTCkHkR?fPLa\\C{IKS?hPPadDKIkT?jPTalD[JKU?lPXatDkJkV?nP\\a|D{KKW?pP`bDEKKkX?rPdbLE[LKY?tPhbTEkLkZ?vPlb\\E{MK[?xPpbdFKMk\\?zPtblF[NK]?|PxbtFkNk^?~P|b|F{OK_@@Q@cDGKOk`@BQDcLG[PKa@DQHcTGkPkb@FQLc\\G{QKc@HQPcdHKQkd@JQTclH[RKe@LQXctHkRkf@NQ\\c|H{SKg@PQ`dDIKSkh@RQddLI[TKi@TQhdTIkTkj@VQld\\I{UKk@XQpddJKUkl@ZQtdlJ[VKm@\\QxdtJkVkn@^Q|d|J{WKo@`R@eDKKWkp@bRDeLK[XKq@dRHeTKkXkr@fRLe\\K{YKs@hRPedLKYkt@jRTelL[ZKu@lRXetLkZkv@nR\\e|L{[Kw@pR`fDMK[kx@rRdfLM[\\Ky@tRhfTMk\\kz@vRlf\\M{]K{@xRpfdNK]k|@zRtflN[^K}@|RxftNk^k~@~R|f|N{_L?A@S@gDOK_l@ABSDgLO[`LAADSHgTOk`lBAFSLg\\O{aLCAHSPgdPKalDAJSTglP[bLEALSXgtPkblFANS\\g|P{cLGAPS`hDQKclHARSdhLQ[dLIATShhTQkdlJAVSlh\\Q{eLKAXSphdRKelLAZSthlR[fLMA\\SxhtRkflNA^S|h|R{gLOA`T@iDSKglPAbTDiLS[hLQAdTHiTSkhlRAfTLi\\S{iLSAhTPidTKilTAjTTilT[jLUAlTXitTkjlVAnT\\i|T{kLWApT`jDUKklXArTdjLU[lLYAtThjTUkllZAvTlj\\U{mL[AxTpjdVKml\\AzTtjlV[nL]A|TxjtVknl^A~T|j|V{oL_B@U@kDWKol`BBUDkLW[pLaBDUHkTWkplbBFULk\\W{qLcBHUPkdXKqldBJUTklX[rLeBLUXktXkrlfBNU\\k|X{sLgBPU`lDYKslhBRUdlLY[tLiBTUhlTYktljBVUll\\Y{uLkBXUpldZKullBZUtllZ[vLmB\\UxltZkvlnB^U|l|Z{wLoB`V@mD[KwlpBbVDmL[[xLqBdVHmT[kxlrBfVLm\\[{yLsBhVPmd\\KyltBjVTml\\[zLuBlVXmt\\kzlvBnV\\m|\\{{LwBpV`nD]K{lxBrVdnL][|LyBtVhnT]k|lzBvVln\\]{}L{BxVpnd^K}l|BzVtnl^[~L}B|Vxnt^k~l~B~V|n|?@?I?g?F~OB?@?A?n", 
+        "diameter": 130, 
+        "girth": 4, 
+        "has_multiple_edges": false, 
+        "is_arc_transitive": false, 
+        "is_bipartite": false, 
+        "is_cayley": true, 
+        "is_distance_regular": false, 
+        "is_distance_transitive": false, 
+        "is_edge_transitive": false, 
+        "is_eulerian": false, 
+        "is_forest": false, 
+        "is_hamiltonian": true, 
+        "is_overfull": false, 
+        "is_partial_cube": false, 
+        "is_regular": true, 
+        "is_split": false, 
+        "is_strongly_regular": false, 
+        "is_tree": false, 
+        "is_vertex_transitive": true, 
+        "name": "259-Prism", 
+        "number_of_loops": 0, 
+        "odd_girth": 259, 
+        "order": 518, 
+        "size": 777, 
+        "triangles_count": 0
+    }, 
+    "graph_cvt": {
+        "cvt_index": 14, 
+        "is_moebius_ladder": false, 
+        "is_prism": true, 
+        "is_spx": false
+    }, 
+    "graph_vt": {}, 
+    "object": {
+        "alias": [
+            "259-Prism", 
+            "GP(259,1)", 
+            "Generalized Petersen graph (259, 1)", 
+            "Y259"
+        ], 
+        "unique_id": {
+            "bliss": "61526d33efb3997e49a86cebdc64e7c16958cafda8982c3e33fb2d084e1f18a6", 
+            "sage": "e95978083999088ed5e5a1030936965b78f8285fa3b9127011745defdd209fdd"
+        }
+    }
+}

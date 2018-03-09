@@ -1,0 +1,47 @@
+{
+    "graph": {
+        "average_degree": 2.0, 
+        "chromatic_index": 3, 
+        "clique_number": 2, 
+        "connected_components_number": 1, 
+        "data": ":\\__`abcdefghijklmnopqrstuvwxyZ", 
+        "diameter": 14, 
+        "girth": 29, 
+        "has_multiple_edges": false, 
+        "is_arc_transitive": true, 
+        "is_bipartite": false, 
+        "is_cayley": true, 
+        "is_distance_regular": true, 
+        "is_distance_transitive": true, 
+        "is_edge_transitive": true, 
+        "is_eulerian": true, 
+        "is_forest": false, 
+        "is_hamiltonian": true, 
+        "is_overfull": true, 
+        "is_partial_cube": false, 
+        "is_regular": true, 
+        "is_split": false, 
+        "is_strongly_regular": false, 
+        "is_tree": false, 
+        "is_vertex_transitive": true, 
+        "name": "29-Cycle", 
+        "number_of_loops": 0, 
+        "odd_girth": 29, 
+        "order": 29, 
+        "size": 29, 
+        "triangles_count": 0
+    }, 
+    "graph_vt": {
+        "vt_index": 2
+    }, 
+    "object": {
+        "alias": [
+            "29-Cycle", 
+            "C29"
+        ], 
+        "unique_id": {
+            "bliss": "f04a58e2ead3233be2eaff171c0e07fcd1c2cf0e454e20dba07c890a676fb13f", 
+            "sage": "fe3c7b489034ec3bf62eabb6d42463dadca2a6e3f58cfb6edb2f70758d0a0760"
+        }
+    }
+}

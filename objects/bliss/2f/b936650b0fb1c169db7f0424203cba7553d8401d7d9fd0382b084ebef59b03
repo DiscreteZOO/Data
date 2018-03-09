@@ -1,0 +1,52 @@
+{
+    "graph": {
+        "average_degree": 3.0, 
+        "clique_number": 2, 
+        "connected_components_number": 1, 
+        "data": ":~?Aq_O@_S@?[A_KB?kC?sD_sF@KG@SH`SJ@kK@sL`sNAKOASPaSRAkSAsTasVBKWBSXbSZBk[Bs\\bs^CK_CS`cSbCkcCsdcsfDKgDShdSjDkkDsldsnEKoESpeSrEksEstesvFKwFSxfSzFk{Fs|fs~GL?GT@gTBGlCGtDgtFHLGHTHhTJHlKHtLhtNILOITPiTRIlSItTitVJLWJTXjTZJl[Jt\\jt^KL_KT`kTbKlcKtdktfLLgLThlTjLlkLtlltnMLoMTpmTrMlsMttmtvNLwNTxnTzNl{Nt|nt~OM?OU@oUBOmCOuDouFPMGPUHpUJPmKPuLpuNQMOQUPqURQmSQuTquVRMWRUXrUZRm[Ru\\ru^SM_SU`sUbSmcSudsufTMgTUhtS?Tim_AjTk?Tam", 
+        "diameter": 45, 
+        "girth": 4, 
+        "has_multiple_edges": false, 
+        "is_arc_transitive": false, 
+        "is_bipartite": false, 
+        "is_cayley": true, 
+        "is_distance_regular": false, 
+        "is_distance_transitive": false, 
+        "is_edge_transitive": false, 
+        "is_eulerian": false, 
+        "is_forest": false, 
+        "is_hamiltonian": true, 
+        "is_overfull": false, 
+        "is_partial_cube": false, 
+        "is_regular": true, 
+        "is_split": false, 
+        "is_strongly_regular": false, 
+        "is_tree": false, 
+        "is_vertex_transitive": true, 
+        "name": "89-Prism", 
+        "number_of_loops": 0, 
+        "odd_girth": 89, 
+        "order": 178, 
+        "size": 267, 
+        "triangles_count": 0
+    }, 
+    "graph_cvt": {
+        "cvt_index": 16, 
+        "is_moebius_ladder": false, 
+        "is_prism": true, 
+        "is_spx": false
+    }, 
+    "graph_vt": {}, 
+    "object": {
+        "alias": [
+            "89-Prism", 
+            "GP(89,1)", 
+            "Generalized Petersen graph (89, 1)", 
+            "Y89"
+        ], 
+        "unique_id": {
+            "bliss": "2fb936650b0fb1c169db7f0424203cba7553d8401d7d9fd0382b084ebef59b03", 
+            "sage": "b5fb09b16933443b8c5567365c6f0186346af30060a67ccbd69b29ade3b6664f"
+        }
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "graph": {
+        "average_degree": 3.0, 
+        "clique_number": 2, 
+        "connected_components_number": 1, 
+        "data": ":~?D[_G?W@_E?oC_G@GB_I@OF_WAGF_aAOJ_gBGJ_qBON_wCGN`ACOR`GDGR`QDOV`WEGV`aEOZ`gFGZ`qFO^`wGG^aAGObaGHGbaQHOfaWIGfaaIOjagJGjaqJOnawKGnbAKOrbGLGrbQLOvbWMGvbaMOzbgNGzbqNO~bwOG~cAOPBcGPHBcQPPFcWQHFcaQPJcgRHJcqRPNcwSHNdASPRdGTHRdQTPVdWUHVdaUPZdgVHZdqVP^dwWH^eAWPbeGXHbeQXPfeWYHfeaYPjegZHjeqZPnew[HnfA[PrfG\\HrfQ\\PvfW]Hvfa]Pzfg^Hzfq^P~fw_H~gA_QBgG`IBgQ`QFgWaIFgaaQJggbIJgqbQNgwcINhAcQRhGdIRhQdQVhWeIVhaeQZhgfIZhqfQ^hwgI^iAgQbiGhIbiQhQfiWiIfiaiQjigjIjiqjQniwkInjAkQrjGlIrjQlQvjWmIvjamQzjgnIzjqnQ~jwoI~kAoRBkGpJBkQpRFkWqJFkaqRJkgrJJkqrRNkwsJNlAsRRlGtJRlQtRVlWuJVlauRZlgvJZlqvR^lwwJ^mAwRbmGxJbmQxRfmWyJfmayRjmgzJjmqzRnmw{JnnA{RrnG|JrnQ|RvnW}Jvna}Rzng~Jznq~R~nx?J~oB?SBoH@KBoR@SFoXAKFobASJohBKJorBSNoxCKNpBCSRpHDKRpRDSVpXEKVpbESZphFKZprFS^pxGK^qBGSbqHHKbqRHSfqXIKfqbISjqhJKjqrJSnqxKKnrBKSrrHLKrrRLSvrXMKvrbMSzrhNKzrrNS~rxOK~sBOTBsHPLBsRPTFsXQLFsbQTJshRLJsrRTNsxSLNtBSTRtHTLRtQ?DVTa?DTT]?DUTb", 
+        "diameter": 88, 
+        "girth": 4, 
+        "has_multiple_edges": false, 
+        "is_arc_transitive": false, 
+        "is_bipartite": true, 
+        "is_cayley": true, 
+        "is_distance_regular": false, 
+        "is_distance_transitive": false, 
+        "is_edge_transitive": false, 
+        "is_eulerian": false, 
+        "is_forest": false, 
+        "is_hamiltonian": true, 
+        "is_overfull": false, 
+        "is_partial_cube": true, 
+        "is_regular": true, 
+        "is_split": false, 
+        "is_strongly_regular": false, 
+        "is_tree": false, 
+        "is_vertex_transitive": true, 
+        "name": "174-Prism", 
+        "number_of_loops": 0, 
+        "order": 348, 
+        "size": 522, 
+        "triangles_count": 0
+    }, 
+    "graph_cvt": {
+        "cvt_index": 60, 
+        "is_moebius_ladder": false, 
+        "is_prism": true, 
+        "is_spx": false
+    }, 
+    "graph_vt": {}, 
+    "object": {
+        "alias": [
+            "174-Prism", 
+            "GP(174,1)", 
+            "Generalized Petersen graph (174, 1)", 
+            "Y174"
+        ], 
+        "unique_id": {
+            "bliss": "0a496ebbd0948ceb6c4d42951d3ab216735a19e80b0202428bb558e0a5685447", 
+            "sage": "2b2e3c3dd72dbfc9a1afb201523967582f0a6fc0776985f76e3146056ddbe3bb"
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "graph": {
+        "average_degree": 6.0, 
+        "chromatic_index": 7, 
+        "clique_number": 3, 
+        "connected_components_number": 1, 
+        "data": ":Zb@A`AcbaDE`DEcDbEaFHI`GHIaCaB`CM`BLdFLeFMdGNQeGOP_PQRS_HJLP_IJMQ_HKNRV_IKOSU_LMNOT", 
+        "diameter": 3, 
+        "girth": 3, 
+        "has_multiple_edges": false, 
+        "is_arc_transitive": true, 
+        "is_bipartite": false, 
+        "is_cayley": true, 
+        "is_distance_regular": true, 
+        "is_distance_transitive": true, 
+        "is_edge_transitive": true, 
+        "is_eulerian": true, 
+        "is_forest": false, 
+        "is_hamiltonian": true, 
+        "is_overfull": true, 
+        "is_partial_cube": false, 
+        "is_regular": true, 
+        "is_split": false, 
+        "is_strongly_regular": false, 
+        "is_tree": false, 
+        "is_vertex_transitive": true, 
+        "name": "Hamming graph H(3, 3)", 
+        "number_of_loops": 0, 
+        "odd_girth": 3, 
+        "order": 27, 
+        "size": 81, 
+        "triangles_count": 27
+    }, 
+    "graph_vt": {
+        "vt_index": 51
+    }, 
+    "object": {
+        "alias": [
+            "Hamming graph H(3, 3)"
+        ], 
+        "unique_id": {
+            "bliss": "c088888a103d4854508f900ffe06d187bcbf43d78b03334fce9026577bfb1b0c", 
+            "sage": "bd028b8ea9f4ea12f7ab93cf1796c3c417c799d00bee31d964a7ca2282793f87"
+        }
+    }
+}

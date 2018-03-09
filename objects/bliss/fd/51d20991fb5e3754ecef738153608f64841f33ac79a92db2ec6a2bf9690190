@@ -1,0 +1,46 @@
+{
+    "graph": {
+        "average_degree": 5.0, 
+        "clique_number": 6, 
+        "connected_components_number": 1, 
+        "data": ":Ea@_Q_QM@Gs", 
+        "diameter": 1, 
+        "girth": 3, 
+        "has_multiple_edges": false, 
+        "is_arc_transitive": true, 
+        "is_bipartite": false, 
+        "is_cayley": true, 
+        "is_distance_regular": false, 
+        "is_distance_transitive": false, 
+        "is_edge_transitive": true, 
+        "is_eulerian": false, 
+        "is_forest": false, 
+        "is_hamiltonian": true, 
+        "is_overfull": false, 
+        "is_partial_cube": false, 
+        "is_regular": true, 
+        "is_split": true, 
+        "is_strongly_regular": false, 
+        "is_tree": false, 
+        "is_vertex_transitive": true, 
+        "name": "6-Clique", 
+        "number_of_loops": 0, 
+        "odd_girth": 3, 
+        "order": 6, 
+        "size": 15, 
+        "triangles_count": 20
+    }, 
+    "graph_vt": {
+        "vt_index": 8
+    }, 
+    "object": {
+        "alias": [
+            "6-Clique", 
+            "K6"
+        ], 
+        "unique_id": {
+            "bliss": "fd51d20991fb5e3754ecef738153608f64841f33ac79a92db2ec6a2bf9690190", 
+            "sage": "fd51d20991fb5e3754ecef738153608f64841f33ac79a92db2ec6a2bf9690190"
+        }
+    }
+}

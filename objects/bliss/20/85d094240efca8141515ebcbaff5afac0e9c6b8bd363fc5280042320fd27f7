@@ -1,0 +1,46 @@
+{
+    "graph": {
+        "average_degree": 8.0, 
+        "chromatic_index": 9, 
+        "clique_number": 5, 
+        "connected_components_number": 1, 
+        "data": ":Xa@`A`ABcbDaDE`DEFcDbEHaFHI`GHIJcDHbEILaFJLM`GKLMN_LMNO_CDHL_BEIMQ_AFJNQR_@GKOQRS_HIJKP_DEFGPU_@ABCPUV", 
+        "diameter": 2, 
+        "girth": 3, 
+        "has_multiple_edges": false, 
+        "is_arc_transitive": true, 
+        "is_bipartite": false, 
+        "is_cayley": true, 
+        "is_distance_regular": true, 
+        "is_distance_transitive": true, 
+        "is_edge_transitive": true, 
+        "is_eulerian": true, 
+        "is_forest": false, 
+        "is_hamiltonian": true, 
+        "is_overfull": true, 
+        "is_partial_cube": false, 
+        "is_regular": true, 
+        "is_split": false, 
+        "is_strongly_regular": true, 
+        "is_tree": false, 
+        "is_vertex_transitive": true, 
+        "name": "Hamming graph H(2, 5)", 
+        "number_of_loops": 0, 
+        "odd_girth": 3, 
+        "order": 25, 
+        "size": 100, 
+        "triangles_count": 100
+    }, 
+    "graph_vt": {
+        "vt_index": 90
+    }, 
+    "object": {
+        "alias": [
+            "Hamming graph H(2, 5)"
+        ], 
+        "unique_id": {
+            "bliss": "2085d094240efca8141515ebcbaff5afac0e9c6b8bd363fc5280042320fd27f7", 
+            "sage": "17dc3cf99502cce5df979fbb6f34adf5329d8128f41a7c5b49030382577efea6"
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "graph": {
+        "average_degree": 2.0, 
+        "connected_components_number": 1, 
+        "data": ":@^", 
+        "diameter": 0, 
+        "girth": 1, 
+        "has_multiple_edges": false, 
+        "is_bipartite": false, 
+        "is_eulerian": true, 
+        "is_forest": false, 
+        "is_tree": false, 
+        "is_vertex_transitive": true, 
+        "name": "1-Cycle", 
+        "number_of_loops": 1, 
+        "order": 1, 
+        "size": 1
+    }, 
+    "graph_vt": {}, 
+    "object": {
+        "alias": [
+            "1-Cycle", 
+            "C1"
+        ], 
+        "unique_id": {
+            "bliss": "3bd209eb30891eda1c5818d908407a03ede388aa157d464e4167ee4e2ec557c4", 
+            "sage": "3bd209eb30891eda1c5818d908407a03ede388aa157d464e4167ee4e2ec557c4"
+        }
+    }
+}

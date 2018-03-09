@@ -1,0 +1,43 @@
+{
+    "graph": {
+        "average_degree": 0.0, 
+        "clique_number": 1, 
+        "connected_components_number": 15, 
+        "data": ":N", 
+        "has_multiple_edges": false, 
+        "is_arc_transitive": true, 
+        "is_bipartite": true, 
+        "is_cayley": false, 
+        "is_distance_regular": false, 
+        "is_distance_transitive": false, 
+        "is_edge_transitive": true, 
+        "is_eulerian": true, 
+        "is_forest": true, 
+        "is_hamiltonian": false, 
+        "is_overfull": false, 
+        "is_partial_cube": false, 
+        "is_regular": true, 
+        "is_split": true, 
+        "is_strongly_regular": false, 
+        "is_tree": false, 
+        "is_vertex_transitive": true, 
+        "name": "15-Anticlique", 
+        "number_of_loops": 0, 
+        "order": 15, 
+        "size": 0, 
+        "triangles_count": 0
+    }, 
+    "graph_vt": {
+        "vt_index": 1
+    }, 
+    "object": {
+        "alias": [
+            "15-Anticlique", 
+            "15K1"
+        ], 
+        "unique_id": {
+            "bliss": "de2c213eca7c6cf90b0b0bde3eb7a1b6c57efd649fd506f6a11ba3cb20ace0e3", 
+            "sage": "de2c213eca7c6cf90b0b0bde3eb7a1b6c57efd649fd506f6a11ba3cb20ace0e3"
+        }
+    }
+}

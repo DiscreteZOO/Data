@@ -1,0 +1,52 @@
+{
+    "graph": {
+        "average_degree": 3.0, 
+        "clique_number": 2, 
+        "connected_components_number": 1, 
+        "data": ":~?C}_G?WA_C?wA_E?oD_O@gD_Y@oH__AgH_iAoL_oBgL_yBoP`?CgP`ICoT`ODgT`YDoX`_EgX`iEo\\`oFg\\`yFo`a?Gg`aIGodaOHgdaYHoha_IghaiIolaoJglayJopb?KgpbIKotbOLgtbYLoxb_MgxbiMo|boNg|byNp@c?Oh@cIOpDcOPhDcYPpHc_QhHciQpLcoRhLcyRpPd?ShPdISpTdOThTdYTpXd_UhXdiUp\\doVh\\dyVp`e?Wh`eIWpdeOXhdeYXphe_YhheiYpleoZhleyZppf?[hpfI[ptfO\\htfY\\pxf_]hxfi]p|fo^h|fy^q@g?_i@gI_qDgO`iDgY`qHg_aiHgiaqLgobiLgybqPh?ciPhIcqThOdiThYdqXh_eiXhieq\\hofi\\hyfq`i?gi`iIgqdiOhidiYhqhi_iihiiiqliojiliyjqpj?kipjIkqtjOlitjYlqxj_mixjimq|joni|jynr@k?oj@kIorDkOpjDkYprHk_qjHkiqrLkorjLkyrrPl?sjPlIsrTlOtjTlYtrXl_ujXliur\\lovj\\lyvr`m?wj`mIwrdmOxjdmYxrhm_yjhmiyrlmozjlmyzrpn?{jpnI{rtnO|jtnY|rxn_}jxni}r|no~j|ny~s@o@?k@oJ?sDoP@kDoZ@sHo`AkHojAsLopBkLozBsPp@CkPpJCsTpPDkTpZDsXp`EkXpjEs\\ppFk\\pzFs`q@Gk`qJGsdqPHkdqZHshq`IkhqjIslqpJklqzJspr@KkprJKstrPLktrY?CxRi?CvRe?CwRj", 
+        "diameter": 80, 
+        "girth": 4, 
+        "has_multiple_edges": false, 
+        "is_arc_transitive": false, 
+        "is_bipartite": false, 
+        "is_cayley": true, 
+        "is_distance_regular": false, 
+        "is_distance_transitive": false, 
+        "is_edge_transitive": false, 
+        "is_eulerian": false, 
+        "is_forest": false, 
+        "is_hamiltonian": true, 
+        "is_overfull": false, 
+        "is_partial_cube": false, 
+        "is_regular": true, 
+        "is_split": false, 
+        "is_strongly_regular": false, 
+        "is_tree": false, 
+        "is_vertex_transitive": true, 
+        "name": "159-Prism", 
+        "number_of_loops": 0, 
+        "odd_girth": 159, 
+        "order": 318, 
+        "size": 477, 
+        "triangles_count": 0
+    }, 
+    "graph_cvt": {
+        "cvt_index": 19, 
+        "is_moebius_ladder": false, 
+        "is_prism": true, 
+        "is_spx": false
+    }, 
+    "graph_vt": {}, 
+    "object": {
+        "alias": [
+            "159-Prism", 
+            "GP(159,1)", 
+            "Generalized Petersen graph (159, 1)", 
+            "Y159"
+        ], 
+        "unique_id": {
+            "bliss": "81f8b64cafd3e07556867bdfaeaff15a7618a09844924e47ae4389912bfee8a3", 
+            "sage": "a58294c076470a78f89015ad0ff44d81ef4c34d474f1167c3fd4f4cd0b24c682"
+        }
+    }
+}

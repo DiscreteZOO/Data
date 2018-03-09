@@ -1,0 +1,49 @@
+{
+    "graph": {
+        "average_degree": 3.0, 
+        "clique_number": 2, 
+        "connected_components_number": 3, 
+        "data": ":]a?@_`bC_C`BaDeFGkIJijlMiMjLkNoPQuSTstvWsWtVuXyZ[", 
+        "girth": 5, 
+        "has_multiple_edges": false, 
+        "is_arc_transitive": true, 
+        "is_bipartite": false, 
+        "is_cayley": false, 
+        "is_distance_regular": false, 
+        "is_distance_transitive": false, 
+        "is_edge_transitive": true, 
+        "is_eulerian": false, 
+        "is_forest": false, 
+        "is_hamiltonian": false, 
+        "is_overfull": false, 
+        "is_partial_cube": false, 
+        "is_regular": true, 
+        "is_split": false, 
+        "is_strongly_regular": false, 
+        "is_tree": false, 
+        "is_vertex_transitive": true, 
+        "name": "3GP(5,2)", 
+        "number_of_loops": 0, 
+        "odd_girth": 5, 
+        "order": 30, 
+        "size": 45, 
+        "triangles_count": 0
+    }, 
+    "graph_cvt": {
+        "is_moebius_ladder": false, 
+        "is_prism": false, 
+        "is_spx": false
+    }, 
+    "graph_vt": {
+        "vt_index": 16
+    }, 
+    "object": {
+        "alias": [
+            "3GP(5,2)"
+        ], 
+        "unique_id": {
+            "bliss": "1e0261bd208d692830b25eea3b4b853a713135e1442ff2ef6324140cc16b53e5", 
+            "sage": "2f9b56bef5db5a868d8c41df1a5fb2d2fa6f20900744b1702ddb83493a034169"
+        }
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "graph": {
+        "average_degree": 3.0, 
+        "clique_number": 2, 
+        "connected_components_number": 1, 
+        "data": ":{`?WKEEC`@G[IIFbAG{aQJdBH[qYNfCH|AaRhDI\\QiVjEI|aqZlFJ\\qy^nGJ}BAbpHK]RIfrIK}bQjtJL]rYnvKL~BarxLM^Q?v[OEj]?u[^", 
+        "diameter": 16, 
+        "girth": 4, 
+        "has_multiple_edges": false, 
+        "is_arc_transitive": false, 
+        "is_bipartite": true, 
+        "is_cayley": true, 
+        "is_distance_regular": false, 
+        "is_distance_transitive": false, 
+        "is_edge_transitive": false, 
+        "is_eulerian": false, 
+        "is_forest": false, 
+        "is_hamiltonian": true, 
+        "is_overfull": false, 
+        "is_partial_cube": true, 
+        "is_regular": true, 
+        "is_split": false, 
+        "is_strongly_regular": false, 
+        "is_tree": false, 
+        "is_vertex_transitive": true, 
+        "name": "30-Prism", 
+        "number_of_loops": 0, 
+        "order": 60, 
+        "size": 90, 
+        "triangles_count": 0
+    }, 
+    "graph_cvt": {
+        "cvt_index": 23, 
+        "is_moebius_ladder": false, 
+        "is_prism": true, 
+        "is_spx": false
+    }, 
+    "graph_vt": {}, 
+    "object": {
+        "alias": [
+            "30-Prism", 
+            "GP(30,1)", 
+            "Generalized Petersen graph (30, 1)", 
+            "Y30"
+        ], 
+        "unique_id": {
+            "bliss": "d01aea7973661a999ccb812588ffe68f4c2f43f2c7b5ff1b82b5964015531dce", 
+            "sage": "be54a9be3ff50fd508d4cf6d943092c921a15b99b639478e7bfbcc07db5c3c6b"
+        }
+    }
+}

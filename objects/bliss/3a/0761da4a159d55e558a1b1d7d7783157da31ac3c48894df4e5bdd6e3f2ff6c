@@ -1,0 +1,45 @@
+{
+    "graph": {
+        "average_degree": 2.0, 
+        "clique_number": 3, 
+        "connected_components_number": 6, 
+        "data": ":Q__@cBbCfEeFiHhIlKkLoNnO", 
+        "girth": 3, 
+        "has_multiple_edges": false, 
+        "is_arc_transitive": true, 
+        "is_bipartite": false, 
+        "is_cayley": false, 
+        "is_distance_regular": false, 
+        "is_distance_transitive": false, 
+        "is_edge_transitive": true, 
+        "is_eulerian": false, 
+        "is_forest": false, 
+        "is_hamiltonian": false, 
+        "is_overfull": false, 
+        "is_partial_cube": false, 
+        "is_regular": true, 
+        "is_split": false, 
+        "is_strongly_regular": false, 
+        "is_tree": false, 
+        "is_vertex_transitive": true, 
+        "name": "6K3", 
+        "number_of_loops": 0, 
+        "odd_girth": 3, 
+        "order": 18, 
+        "size": 18, 
+        "triangles_count": 6
+    }, 
+    "graph_vt": {
+        "vt_index": 6
+    }, 
+    "object": {
+        "alias": [
+            "6C3", 
+            "6K3"
+        ], 
+        "unique_id": {
+            "bliss": "3a0761da4a159d55e558a1b1d7d7783157da31ac3c48894df4e5bdd6e3f2ff6c", 
+            "sage": "9ff03ee23fc5524570307ed725321282ea52e94106367ca77cefec157b2d0812"
+        }
+    }
+}

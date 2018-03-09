@@ -1,0 +1,46 @@
+{
+    "graph": {
+        "average_degree": 4.0, 
+        "chromatic_index": 5, 
+        "clique_number": 3, 
+        "connected_components_number": 1, 
+        "data": ":Ta@cBa`bDcEaD`EcGHbFIbC`ALdFeGN_NO_HJ_IKQ_LMP", 
+        "diameter": 3, 
+        "girth": 3, 
+        "has_multiple_edges": false, 
+        "is_arc_transitive": true, 
+        "is_bipartite": false, 
+        "is_cayley": true, 
+        "is_distance_regular": true, 
+        "is_distance_transitive": true, 
+        "is_edge_transitive": true, 
+        "is_eulerian": true, 
+        "is_forest": false, 
+        "is_hamiltonian": true, 
+        "is_overfull": true, 
+        "is_partial_cube": false, 
+        "is_regular": true, 
+        "is_split": false, 
+        "is_strongly_regular": false, 
+        "is_tree": false, 
+        "is_vertex_transitive": true, 
+        "name": "Generalized hexagon GH(2, 1)", 
+        "number_of_loops": 0, 
+        "odd_girth": 3, 
+        "order": 21, 
+        "size": 42, 
+        "triangles_count": 14
+    }, 
+    "graph_vt": {
+        "vt_index": 13
+    }, 
+    "object": {
+        "alias": [
+            "Generalized hexagon GH(2, 1)"
+        ], 
+        "unique_id": {
+            "bliss": "ba375aeac6b6e548542f624b8f61deccc492f33583fab0bc0744890fcbc87b24", 
+            "sage": "4e771ce532e803c8a1237111b16f8d242c49bb2e82271946dc7bea7b5dff987a"
+        }
+    }
+}

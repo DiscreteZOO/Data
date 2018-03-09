@@ -1,0 +1,52 @@
+{
+    "graph": {
+        "average_degree": 3.0, 
+        "clique_number": 2, 
+        "connected_components_number": 1, 
+        "data": ":~?@A__EA_OMA_WKD`?YD`g[Ha?iHagkLb?yLbg{Pc@IPchKTd@YTdh[Xe@iXehk\\f@y\\fh{`gAI`giKdhAYdhi[hiAihiikljAylji{pkBIpkjKtlBYtlj[xmBixmg?|Ng?zNW?{Nn", 
+        "diameter": 17, 
+        "girth": 4, 
+        "has_multiple_edges": false, 
+        "is_arc_transitive": false, 
+        "is_bipartite": false, 
+        "is_cayley": true, 
+        "is_distance_regular": false, 
+        "is_distance_transitive": false, 
+        "is_edge_transitive": false, 
+        "is_eulerian": false, 
+        "is_forest": false, 
+        "is_hamiltonian": true, 
+        "is_overfull": false, 
+        "is_partial_cube": false, 
+        "is_regular": true, 
+        "is_split": false, 
+        "is_strongly_regular": false, 
+        "is_tree": false, 
+        "is_vertex_transitive": true, 
+        "name": "33-Prism", 
+        "number_of_loops": 0, 
+        "odd_girth": 33, 
+        "order": 66, 
+        "size": 99, 
+        "triangles_count": 0
+    }, 
+    "graph_cvt": {
+        "cvt_index": 8, 
+        "is_moebius_ladder": false, 
+        "is_prism": true, 
+        "is_spx": false
+    }, 
+    "graph_vt": {}, 
+    "object": {
+        "alias": [
+            "33-Prism", 
+            "GP(33,1)", 
+            "Generalized Petersen graph (33, 1)", 
+            "Y33"
+        ], 
+        "unique_id": {
+            "bliss": "0b6bebb9c49d0064fe838a004f3be8ace1d7b3ea273f9084c9eff9401fb5cedc", 
+            "sage": "3c8271a7f381d26dbcca39df05d7b3073191b93133def1375c3f3cdc1341bc29"
+        }
+    }
+}

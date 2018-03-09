@@ -1,0 +1,46 @@
+{
+    "graph": {
+        "average_degree": 4.0, 
+        "chromatic_index": 5, 
+        "clique_number": 3, 
+        "connected_components_number": 1, 
+        "data": ":H`AGg@_IGqqEQ`RF", 
+        "diameter": 2, 
+        "girth": 3, 
+        "has_multiple_edges": false, 
+        "is_arc_transitive": true, 
+        "is_bipartite": false, 
+        "is_cayley": true, 
+        "is_distance_regular": true, 
+        "is_distance_transitive": true, 
+        "is_edge_transitive": true, 
+        "is_eulerian": true, 
+        "is_forest": false, 
+        "is_hamiltonian": true, 
+        "is_overfull": true, 
+        "is_partial_cube": false, 
+        "is_regular": true, 
+        "is_split": false, 
+        "is_strongly_regular": true, 
+        "is_tree": false, 
+        "is_vertex_transitive": true, 
+        "name": "Paley(9) graph", 
+        "number_of_loops": 0, 
+        "odd_girth": 3, 
+        "order": 9, 
+        "size": 18, 
+        "triangles_count": 6
+    }, 
+    "graph_vt": {
+        "vt_index": 5
+    }, 
+    "object": {
+        "alias": [
+            "Paley(9) graph"
+        ], 
+        "unique_id": {
+            "bliss": "cfda017bb5cfa62ebe66d152fe10d6d7721e98228877d3f5271aa1cf0684f7c6", 
+            "sage": "4f9ab6761dd650479cfbebe9dea558e4c9a6f7691cd8297f9b71568f4d12c67d"
+        }
+    }
+}

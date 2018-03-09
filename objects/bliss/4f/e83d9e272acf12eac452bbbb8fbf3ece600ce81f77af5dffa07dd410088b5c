@@ -1,0 +1,59 @@
+{
+    "graph": {
+        "average_degree": 3.0, 
+        "clique_number": 2, 
+        "connected_components_number": 1, 
+        "data": ":OcEKZcLKsbRJOkaoMiAEOQn", 
+        "diameter": 4, 
+        "genus": 1, 
+        "girth": 6, 
+        "has_multiple_edges": false, 
+        "is_arc_transitive": true, 
+        "is_bipartite": true, 
+        "is_cayley": true, 
+        "is_distance_regular": false, 
+        "is_distance_transitive": false, 
+        "is_edge_transitive": true, 
+        "is_eulerian": false, 
+        "is_forest": false, 
+        "is_hamiltonian": true, 
+        "is_overfull": false, 
+        "is_partial_cube": false, 
+        "is_planar": false, 
+        "is_regular": true, 
+        "is_split": false, 
+        "is_strongly_regular": false, 
+        "is_tree": false, 
+        "is_vertex_transitive": true, 
+        "name": "M\u00f6bius-Kantor graph", 
+        "number_of_loops": 0, 
+        "order": 16, 
+        "size": 24, 
+        "triangles_count": 0
+    }, 
+    "graph_cvt": {
+        "cvt_index": 4, 
+        "is_moebius_ladder": false, 
+        "is_prism": false, 
+        "is_spx": false, 
+        "symcubic_index": 1, 
+        "truncation": [
+            "bliss", 
+            "fe24c7b2cc9abdb89b214c8333bb38d1ef92adffb88491d8b608e1109120a46a"
+        ]
+    }, 
+    "graph_vt": {
+        "vt_index": 6
+    }, 
+    "object": {
+        "alias": [
+            "GP(8,3)", 
+            "Generalized Petersen graph (8, 3)", 
+            "M\u00f6bius-Kantor graph"
+        ], 
+        "unique_id": {
+            "bliss": "4fe83d9e272acf12eac452bbbb8fbf3ece600ce81f77af5dffa07dd410088b5c", 
+            "sage": "f2e9ad0f33846866e2189547bef13653ca605ab9baa6fc11c2b78369dacff861"
+        }
+    }
+}

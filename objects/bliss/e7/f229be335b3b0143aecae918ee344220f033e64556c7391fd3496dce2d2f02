@@ -1,0 +1,51 @@
+{
+    "graph": {
+        "average_degree": 3.0, 
+        "clique_number": 2, 
+        "connected_components_number": 1, 
+        "data": ":~?C?_O@_K@_WC_OC_[A_gF_oG_{G`GJ`OK`[K`gN`oO`{OaGRaOSa[SagVaoWa{WbGZbO[b[[bg^bo_b{_cGbcOcc[ccgfcogc{gdGjdOkd[kdgndood{oeGreOse[segveowe{wfGzfO{f[{fg~fp?f|?gHBgPCg\\CghFgpGg|GhHJhPKh\\KhhNhpOh|OiHRiPSi\\SihVipWi|WjHZjP[j\\[jh^jp_j|_kHbkPck\\ckhfkpgk|glHjlPkl\\klhnlpol|omHrmPsm\\smhvmpwm|wnHznP{n\\{nh~nq?n}?oIBoQCo]CoiFoqGo}GpIJpQKp]KpiNpqOp}OqIRqQSq]SqiVqqWq}WrIZrQ[r][ri^rq_r}_sIbsQcs]csifsqgs}gtIjtQkt]ktintqot}ouIruQsu]suivuqwu}wvIzvQ{v]{vi~vr?v~?wJBwRCw^CwjFwrGw~GxJJxRKx^KxjNxrOx~OyJRyRSy^SyjVyrWy~WzJZzR[z^[zj^zr_z~_{Jb{Rc{^c{jf{rg{~g|Jj|Rk|^k|jn|ro|~o}Jr}Rs}^s}jv}rw}~w_Bz^c?^Jz_By^f", 
+        "diameter": 65, 
+        "girth": 4, 
+        "has_multiple_edges": false, 
+        "is_arc_transitive": false, 
+        "is_bipartite": true, 
+        "is_cayley": true, 
+        "is_distance_regular": false, 
+        "is_distance_transitive": false, 
+        "is_edge_transitive": false, 
+        "is_eulerian": false, 
+        "is_forest": false, 
+        "is_hamiltonian": true, 
+        "is_overfull": false, 
+        "is_partial_cube": true, 
+        "is_regular": true, 
+        "is_split": false, 
+        "is_strongly_regular": false, 
+        "is_tree": false, 
+        "is_vertex_transitive": true, 
+        "name": "128-Prism", 
+        "number_of_loops": 0, 
+        "order": 256, 
+        "size": 384, 
+        "triangles_count": 0
+    }, 
+    "graph_cvt": {
+        "cvt_index": 84, 
+        "is_moebius_ladder": false, 
+        "is_prism": true, 
+        "is_spx": false
+    }, 
+    "graph_vt": {}, 
+    "object": {
+        "alias": [
+            "128-Prism", 
+            "GP(128,1)", 
+            "Generalized Petersen graph (128, 1)", 
+            "Y128"
+        ], 
+        "unique_id": {
+            "bliss": "e7f229be335b3b0143aecae918ee344220f033e64556c7391fd3496dce2d2f02", 
+            "sage": "27ddc350148056252e6059a19cd13c5097bd0abc8ce013c5385ec45e0fb166c0"
+        }
+    }
+}

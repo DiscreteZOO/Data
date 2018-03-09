@@ -1,0 +1,44 @@
+{
+    "graph": {
+        "average_degree": 0.0, 
+        "clique_number": 1, 
+        "connected_components_number": 1, 
+        "data": ":@", 
+        "diameter": 0, 
+        "has_multiple_edges": false, 
+        "is_arc_transitive": true, 
+        "is_bipartite": true, 
+        "is_cayley": true, 
+        "is_distance_regular": false, 
+        "is_distance_transitive": false, 
+        "is_edge_transitive": true, 
+        "is_eulerian": true, 
+        "is_forest": true, 
+        "is_overfull": false, 
+        "is_partial_cube": true, 
+        "is_regular": true, 
+        "is_split": true, 
+        "is_strongly_regular": false, 
+        "is_vertex_transitive": true, 
+        "name": "Vertex", 
+        "number_of_loops": 0, 
+        "order": 1, 
+        "size": 0, 
+        "triangles_count": 0
+    }, 
+    "graph_vt": {
+        "vt_index": 1
+    }, 
+    "object": {
+        "alias": [
+            "1-Anticlique", 
+            "1-Clique", 
+            "K1", 
+            "Vertex"
+        ], 
+        "unique_id": {
+            "bliss": "d0f09e73e71c4c85defcf168f1b0930e6c53645d22aeeedc376b995685b40917", 
+            "sage": "d0f09e73e71c4c85defcf168f1b0930e6c53645d22aeeedc376b995685b40917"
+        }
+    }
+}

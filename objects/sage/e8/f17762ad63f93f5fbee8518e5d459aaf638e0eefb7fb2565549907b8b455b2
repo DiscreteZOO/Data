@@ -1,0 +1,36 @@
+{
+    "graph": {
+        "average_degree": 3.0, 
+        "connected_components_number": 1, 
+        "data": ":A_", 
+        "diameter": 1, 
+        "girth": 2, 
+        "has_multiple_edges": true, 
+        "is_bipartite": true, 
+        "is_eulerian": false, 
+        "is_forest": false, 
+        "is_tree": false, 
+        "is_vertex_transitive": true, 
+        "name": "1-M\u00f6bius ladder", 
+        "number_of_loops": 0, 
+        "order": 2, 
+        "size": 3
+    }, 
+    "graph_cvt": {
+        "is_moebius_ladder": true, 
+        "is_prism": false, 
+        "truncation": [
+            "bliss", 
+            "51c8fb09295b7d8e0a49d67b6293082a86185f2857979a6c5f5f36775485a942"
+        ]
+    }, 
+    "graph_vt": {}, 
+    "object": {
+        "alias": [
+            "1-M\u00f6bius ladder"
+        ], 
+        "unique_id": {
+            "sage": "e8f17762ad63f93f5fbee8518e5d459aaf638e0eefb7fb2565549907b8b455b2"
+        }
+    }
+}

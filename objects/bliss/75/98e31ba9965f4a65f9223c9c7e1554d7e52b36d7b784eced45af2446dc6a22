@@ -1,0 +1,50 @@
+{
+    "graph": {
+        "average_degree": 3.0, 
+        "clique_number": 2, 
+        "connected_components_number": 2, 
+        "data": ":S__`A_`cDaCbDeFGjIijKijmNkMlNoPQ", 
+        "girth": 4, 
+        "has_multiple_edges": false, 
+        "is_arc_transitive": false, 
+        "is_bipartite": false, 
+        "is_cayley": false, 
+        "is_distance_regular": false, 
+        "is_distance_transitive": false, 
+        "is_edge_transitive": false, 
+        "is_eulerian": false, 
+        "is_forest": false, 
+        "is_hamiltonian": false, 
+        "is_overfull": false, 
+        "is_partial_cube": false, 
+        "is_regular": true, 
+        "is_split": false, 
+        "is_strongly_regular": false, 
+        "is_tree": false, 
+        "is_vertex_transitive": true, 
+        "name": "2Y5", 
+        "number_of_loops": 0, 
+        "odd_girth": 5, 
+        "order": 20, 
+        "size": 30, 
+        "triangles_count": 0
+    }, 
+    "graph_cvt": {
+        "is_moebius_ladder": false, 
+        "is_prism": false, 
+        "is_spx": false
+    }, 
+    "graph_vt": {
+        "vt_index": 16
+    }, 
+    "object": {
+        "alias": [
+            "2GP(5,1)", 
+            "2Y5"
+        ], 
+        "unique_id": {
+            "bliss": "7598e31ba9965f4a65f9223c9c7e1554d7e52b36d7b784eced45af2446dc6a22", 
+            "sage": "e5e1891e8c6a8e228cc6f747191a96ba263a00c8c5b8f6a22c32aa26074566ad"
+        }
+    }
+}

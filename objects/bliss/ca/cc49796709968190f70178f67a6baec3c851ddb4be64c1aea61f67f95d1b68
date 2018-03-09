@@ -1,0 +1,46 @@
+{
+    "graph": {
+        "average_degree": 17.0, 
+        "clique_number": 18, 
+        "connected_components_number": 1, 
+        "data": ":Q__@_@A_@AB_@ABC_@ABCD_@ABCDE_@ABCDEF_@ABCDEFG_@ABCDEFGH_@ABCDEFGHI_@ABCDEFGHIJ_@ABCDEFGHIJK_@ABCDEFGHIJKL_@ABCDEFGHIJKLM_@ABCDEFGHIJKLMN_@ABCDEFGHIJKLMNO", 
+        "diameter": 1, 
+        "girth": 3, 
+        "has_multiple_edges": false, 
+        "is_arc_transitive": true, 
+        "is_bipartite": false, 
+        "is_cayley": true, 
+        "is_distance_regular": false, 
+        "is_distance_transitive": false, 
+        "is_edge_transitive": true, 
+        "is_eulerian": false, 
+        "is_forest": false, 
+        "is_hamiltonian": true, 
+        "is_overfull": false, 
+        "is_partial_cube": false, 
+        "is_regular": true, 
+        "is_split": true, 
+        "is_strongly_regular": false, 
+        "is_tree": false, 
+        "is_vertex_transitive": true, 
+        "name": "18-Clique", 
+        "number_of_loops": 0, 
+        "odd_girth": 3, 
+        "order": 18, 
+        "size": 153, 
+        "triangles_count": 816
+    }, 
+    "graph_vt": {
+        "vt_index": 380
+    }, 
+    "object": {
+        "alias": [
+            "18-Clique", 
+            "K18"
+        ], 
+        "unique_id": {
+            "bliss": "cacc49796709968190f70178f67a6baec3c851ddb4be64c1aea61f67f95d1b68", 
+            "sage": "cacc49796709968190f70178f67a6baec3c851ddb4be64c1aea61f67f95d1b68"
+        }
+    }
+}

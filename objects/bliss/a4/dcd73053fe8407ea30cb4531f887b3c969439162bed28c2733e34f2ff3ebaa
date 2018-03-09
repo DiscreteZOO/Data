@@ -1,0 +1,45 @@
+{
+    "graph": {
+        "average_degree": 2.0, 
+        "clique_number": 2, 
+        "connected_components_number": 1, 
+        "data": ":EaHis", 
+        "diameter": 3, 
+        "girth": 6, 
+        "has_multiple_edges": false, 
+        "is_arc_transitive": true, 
+        "is_bipartite": true, 
+        "is_cayley": true, 
+        "is_distance_regular": true, 
+        "is_distance_transitive": true, 
+        "is_edge_transitive": true, 
+        "is_eulerian": true, 
+        "is_forest": false, 
+        "is_hamiltonian": true, 
+        "is_overfull": false, 
+        "is_partial_cube": true, 
+        "is_regular": true, 
+        "is_split": false, 
+        "is_strongly_regular": false, 
+        "is_tree": false, 
+        "is_vertex_transitive": true, 
+        "name": "6-Cycle", 
+        "number_of_loops": 0, 
+        "order": 6, 
+        "size": 6, 
+        "triangles_count": 0
+    }, 
+    "graph_vt": {
+        "vt_index": 3
+    }, 
+    "object": {
+        "alias": [
+            "6-Cycle", 
+            "C6"
+        ], 
+        "unique_id": {
+            "bliss": "a4dcd73053fe8407ea30cb4531f887b3c969439162bed28c2733e34f2ff3ebaa", 
+            "sage": "880a15f27011e4041e07c703cee941af85ca9dc6cae74a88c1e419360e1baef8"
+        }
+    }
+}

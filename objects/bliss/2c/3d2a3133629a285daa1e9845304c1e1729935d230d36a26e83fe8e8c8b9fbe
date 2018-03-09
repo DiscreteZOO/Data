@@ -1,0 +1,52 @@
+{
+    "graph": {
+        "average_degree": 3.0, 
+        "clique_number": 2, 
+        "connected_components_number": 1, 
+        "data": ":~?@}__EA_OMA_WKD`?YD`g[Ha?iHagkLb?yLbg{Pc@IPchKTd@YTdh[Xe@iXehk\\f@y\\fh{`gAI`giKdhAYdhi[hiAihiikljAylji{pkBIpkjKtlBYtlj[xmBixmjk|nBy|nj|@oCJ@okLDpCZDpk\\HqCjHqklLrCzLrk|PsDJPslLTtDZTtl\\XuDjXull\\vDz\\vl|`wEJ`wmLdxEZdxm\\hyEjhymllzEzlzm|p{FJp{nLt|FZt|g@x]g@v]W@w]n", 
+        "diameter": 32, 
+        "girth": 4, 
+        "has_multiple_edges": false, 
+        "is_arc_transitive": false, 
+        "is_bipartite": false, 
+        "is_cayley": true, 
+        "is_distance_regular": false, 
+        "is_distance_transitive": false, 
+        "is_edge_transitive": false, 
+        "is_eulerian": false, 
+        "is_forest": false, 
+        "is_hamiltonian": true, 
+        "is_overfull": false, 
+        "is_partial_cube": false, 
+        "is_regular": true, 
+        "is_split": false, 
+        "is_strongly_regular": false, 
+        "is_tree": false, 
+        "is_vertex_transitive": true, 
+        "name": "63-Prism", 
+        "number_of_loops": 0, 
+        "odd_girth": 63, 
+        "order": 126, 
+        "size": 189, 
+        "triangles_count": 0
+    }, 
+    "graph_cvt": {
+        "cvt_index": 21, 
+        "is_moebius_ladder": false, 
+        "is_prism": true, 
+        "is_spx": false
+    }, 
+    "graph_vt": {}, 
+    "object": {
+        "alias": [
+            "63-Prism", 
+            "GP(63,1)", 
+            "Generalized Petersen graph (63, 1)", 
+            "Y63"
+        ], 
+        "unique_id": {
+            "bliss": "2c3d2a3133629a285daa1e9845304c1e1729935d230d36a26e83fe8e8c8b9fbe", 
+            "sage": "4468976652b9a65339cf9c3cc3b73305bb817d43381bb5fa1de429ec1730e13e"
+        }
+    }
+}

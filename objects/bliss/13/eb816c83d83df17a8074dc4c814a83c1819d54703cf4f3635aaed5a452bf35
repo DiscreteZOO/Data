@@ -1,0 +1,52 @@
+{
+    "graph": {
+        "average_degree": 3.0, 
+        "clique_number": 2, 
+        "connected_components_number": 1, 
+        "data": ":GgYeAQ@MBR", 
+        "diameter": 2, 
+        "girth": 4, 
+        "has_multiple_edges": false, 
+        "is_arc_transitive": false, 
+        "is_bipartite": false, 
+        "is_cayley": true, 
+        "is_distance_regular": false, 
+        "is_distance_transitive": false, 
+        "is_edge_transitive": false, 
+        "is_eulerian": false, 
+        "is_forest": false, 
+        "is_hamiltonian": true, 
+        "is_overfull": false, 
+        "is_partial_cube": false, 
+        "is_regular": true, 
+        "is_split": false, 
+        "is_strongly_regular": false, 
+        "is_tree": false, 
+        "is_vertex_transitive": true, 
+        "name": "Wagner graph", 
+        "number_of_loops": 0, 
+        "odd_girth": 5, 
+        "order": 8, 
+        "size": 12, 
+        "triangles_count": 0
+    }, 
+    "graph_cvt": {
+        "cvt_index": 1, 
+        "is_moebius_ladder": true, 
+        "is_prism": false, 
+        "is_spx": false
+    }, 
+    "graph_vt": {
+        "vt_index": 5
+    }, 
+    "object": {
+        "alias": [
+            "4-M\u00f6bius ladder", 
+            "Wagner graph"
+        ], 
+        "unique_id": {
+            "bliss": "13eb816c83d83df17a8074dc4c814a83c1819d54703cf4f3635aaed5a452bf35", 
+            "sage": "982cf1f7ef503a8e20d39653a5781084070f7e766ab12281204b6bb607b026b2"
+        }
+    }
+}

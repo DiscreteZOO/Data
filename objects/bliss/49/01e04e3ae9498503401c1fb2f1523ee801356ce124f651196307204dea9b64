@@ -1,0 +1,55 @@
+{
+    "graph": {
+        "average_degree": 3.0, 
+        "clique_number": 2, 
+        "connected_components_number": 1, 
+        "data": ":Wa@``aBccbaeFeGfHdghlMlNjMkNi_QS_RS_OP", 
+        "diameter": 6, 
+        "girth": 4, 
+        "has_multiple_edges": false, 
+        "is_arc_transitive": false, 
+        "is_bipartite": true, 
+        "is_cayley": true, 
+        "is_distance_regular": false, 
+        "is_distance_transitive": false, 
+        "is_edge_transitive": false, 
+        "is_eulerian": false, 
+        "is_forest": false, 
+        "is_hamiltonian": true, 
+        "is_overfull": false, 
+        "is_partial_cube": true, 
+        "is_planar": true, 
+        "is_regular": true, 
+        "is_split": false, 
+        "is_strongly_regular": false, 
+        "is_tree": false, 
+        "is_vertex_transitive": true, 
+        "name": "Truncated Octahedron", 
+        "number_of_loops": 0, 
+        "order": 24, 
+        "size": 36, 
+        "triangles_count": 0
+    }, 
+    "graph_cvt": {
+        "cvt_index": 11, 
+        "is_moebius_ladder": false, 
+        "is_prism": false, 
+        "is_spx": true
+    }, 
+    "graph_spx": {
+        "spx_r": 3, 
+        "spx_s": 2
+    }, 
+    "graph_vt": {
+        "vt_index": 14
+    }, 
+    "object": {
+        "alias": [
+            "Truncated Octahedron"
+        ], 
+        "unique_id": {
+            "bliss": "4901e04e3ae9498503401c1fb2f1523ee801356ce124f651196307204dea9b64", 
+            "sage": "8459a62b6532f2e40b8f2469252c0dfed3aa67fa58c09c6447136d8c15f090c1"
+        }
+    }
+}

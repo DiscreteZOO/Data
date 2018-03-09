@@ -1,0 +1,46 @@
+{
+    "graph": {
+        "average_degree": 4.0, 
+        "chromatic_index": 5, 
+        "clique_number": 3, 
+        "connected_components_number": 1, 
+        "data": ":NcAK@oDCXWa_QHsQNKaieodedkZ", 
+        "diameter": 3, 
+        "girth": 3, 
+        "has_multiple_edges": false, 
+        "is_arc_transitive": true, 
+        "is_bipartite": false, 
+        "is_cayley": false, 
+        "is_distance_regular": true, 
+        "is_distance_transitive": true, 
+        "is_edge_transitive": true, 
+        "is_eulerian": true, 
+        "is_forest": false, 
+        "is_hamiltonian": true, 
+        "is_overfull": true, 
+        "is_partial_cube": false, 
+        "is_regular": true, 
+        "is_split": false, 
+        "is_strongly_regular": false, 
+        "is_tree": false, 
+        "is_vertex_transitive": true, 
+        "name": "Line graph of Petersen graph", 
+        "number_of_loops": 0, 
+        "odd_girth": 3, 
+        "order": 15, 
+        "size": 30, 
+        "triangles_count": 10
+    }, 
+    "graph_vt": {
+        "vt_index": 10
+    }, 
+    "object": {
+        "alias": [
+            "Line graph of Petersen graph"
+        ], 
+        "unique_id": {
+            "bliss": "f0945bcbd232802d744278b7b9b8ab3231bc1e1bfcc1015c419723e7e3d5305b", 
+            "sage": "d1967f616e129d0e70704e25c07d3d0432a4a8cb7f6adc6713f4f7d64435d1cc"
+        }
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "graph": {
+        "average_degree": 3.0, 
+        "clique_number": 2, 
+        "connected_components_number": 1, 
+        "data": ":y`?WSCFA_ookOLDbPpK_THdQpko\\LfRqL?dPhSqlOlTjTrL_tXlUrlo|\\nVsM@D`pWsmPLdrXtM`ThtYtmp\\lvZuN@dpxOEjY?rYoEbZ", 
+        "diameter": 15, 
+        "girth": 4, 
+        "has_multiple_edges": false, 
+        "is_arc_transitive": false, 
+        "is_bipartite": false, 
+        "is_cayley": true, 
+        "is_distance_regular": false, 
+        "is_distance_transitive": false, 
+        "is_edge_transitive": false, 
+        "is_eulerian": false, 
+        "is_forest": false, 
+        "is_hamiltonian": true, 
+        "is_overfull": false, 
+        "is_partial_cube": false, 
+        "is_regular": true, 
+        "is_split": false, 
+        "is_strongly_regular": false, 
+        "is_tree": false, 
+        "is_vertex_transitive": true, 
+        "name": "29-Prism", 
+        "number_of_loops": 0, 
+        "odd_girth": 29, 
+        "order": 58, 
+        "size": 87, 
+        "triangles_count": 0
+    }, 
+    "graph_cvt": {
+        "cvt_index": 5, 
+        "is_moebius_ladder": false, 
+        "is_prism": true, 
+        "is_spx": false
+    }, 
+    "graph_vt": {}, 
+    "object": {
+        "alias": [
+            "29-Prism", 
+            "GP(29,1)", 
+            "Generalized Petersen graph (29, 1)", 
+            "Y29"
+        ], 
+        "unique_id": {
+            "bliss": "f774cde8b2ee9b21b7fa3ee5b9ac239e9f691cee1cca3469aabf777e6cd8b417", 
+            "sage": "fe1a07228d39e31618e80b8176c40fdfc4b390b6f3fcbdf53529c09f935013f6"
+        }
+    }
+}

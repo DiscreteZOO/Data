@@ -1,0 +1,57 @@
+{
+    "_ref": [
+        [
+            "bliss", 
+            "8f7fa057819b2a7c6dda5fdabd3bbb0a092f77173728a7eb64c97b59ce619946"
+        ]
+    ], 
+    "graph": {
+        "average_degree": 3.0, 
+        "clique_number": 3, 
+        "connected_components_number": 1, 
+        "data": ":Qa@cBa`bDcEbC`AdFeGihL_LM_J_KO", 
+        "diameter": 4, 
+        "girth": 3, 
+        "has_multiple_edges": false, 
+        "is_arc_transitive": false, 
+        "is_bipartite": false, 
+        "is_cayley": true, 
+        "is_distance_regular": false, 
+        "is_distance_transitive": false, 
+        "is_edge_transitive": false, 
+        "is_eulerian": false, 
+        "is_forest": false, 
+        "is_hamiltonian": true, 
+        "is_overfull": false, 
+        "is_partial_cube": false, 
+        "is_regular": true, 
+        "is_split": false, 
+        "is_strongly_regular": false, 
+        "is_tree": false, 
+        "is_vertex_transitive": true, 
+        "name": "Truncated Utility graph", 
+        "number_of_loops": 0, 
+        "odd_girth": 3, 
+        "order": 18, 
+        "size": 27, 
+        "triangles_count": 6
+    }, 
+    "graph_cvt": {
+        "cvt_index": 5, 
+        "is_moebius_ladder": false, 
+        "is_prism": false, 
+        "is_spx": false
+    }, 
+    "graph_vt": {
+        "vt_index": 12
+    }, 
+    "object": {
+        "alias": [
+            "Truncated Utility graph"
+        ], 
+        "unique_id": {
+            "bliss": "cd40893bafc82fc27eb38a9529362df22e3a52a0800e7e58b269ac46358daadf", 
+            "sage": "631250c61191c52d96710ffc6d77ced1df93dd576b1a4ae86715c1c3ef979c03"
+        }
+    }
+}

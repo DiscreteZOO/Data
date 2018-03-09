@@ -1,0 +1,47 @@
+{
+    "graph": {
+        "average_degree": 8.0, 
+        "chromatic_index": 9, 
+        "clique_number": 9, 
+        "connected_components_number": 1, 
+        "data": ":H`?K?a_COw@CKc?aEOk?aEOhg@CK`RF", 
+        "diameter": 1, 
+        "girth": 3, 
+        "has_multiple_edges": false, 
+        "is_arc_transitive": true, 
+        "is_bipartite": false, 
+        "is_cayley": true, 
+        "is_distance_regular": false, 
+        "is_distance_transitive": false, 
+        "is_edge_transitive": true, 
+        "is_eulerian": true, 
+        "is_forest": false, 
+        "is_hamiltonian": true, 
+        "is_overfull": true, 
+        "is_partial_cube": false, 
+        "is_regular": true, 
+        "is_split": true, 
+        "is_strongly_regular": false, 
+        "is_tree": false, 
+        "is_vertex_transitive": true, 
+        "name": "9-Clique", 
+        "number_of_loops": 0, 
+        "odd_girth": 3, 
+        "order": 9, 
+        "size": 36, 
+        "triangles_count": 84
+    }, 
+    "graph_vt": {
+        "vt_index": 9
+    }, 
+    "object": {
+        "alias": [
+            "9-Clique", 
+            "K9"
+        ], 
+        "unique_id": {
+            "bliss": "54b0e3f0eeb114e25ec9b6b2474a8b5e4ddac3a8580fdcbc15e4636b318f1c37", 
+            "sage": "54b0e3f0eeb114e25ec9b6b2474a8b5e4ddac3a8580fdcbc15e4636b318f1c37"
+        }
+    }
+}

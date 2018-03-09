@@ -1,0 +1,51 @@
+{
+    "graph": {
+        "average_degree": 3.0, 
+        "clique_number": 2, 
+        "connected_components_number": 1, 
+        "data": ":~?C[_G?W@_E?oC_G@GB_I@OF_WAGF_aAOJ_gBGJ_qBON_wCGN`ACOR`GDGR`QDOV`WEGV`aEOZ`gFGZ`qFO^`wGG^aAGObaGHGbaQHOfaWIGfaaIOjagJGjaqJOnawKGnbAKOrbGLGrbQLOvbWMGvbaMOzbgNGzbqNO~bwOG~cAOPBcGPHBcQPPFcWQHFcaQPJcgRHJcqRPNcwSHNdASPRdGTHRdQTPVdWUHVdaUPZdgVHZdqVP^dwWH^eAWPbeGXHbeQXPfeWYHfeaYPjegZHjeqZPnew[HnfA[PrfG\\HrfQ\\PvfW]Hvfa]Pzfg^Hzfq^P~fw_H~gA_QBgG`IBgQ`QFgWaIFgaaQJggbIJgqbQNgwcINhAcQRhGdIRhQdQVhWeIVhaeQZhgfIZhqfQ^hwgI^iAgQbiGhIbiQhQfiWiIfiaiQjigjIjiqjQniwkInjAkQrjGlIrjQlQvjWmIvjamQzjgnIzjqnQ~jwoI~kAoRBkGpJBkQpRFkWqJFkaqRJkgrJJkqrRNkwsJNlAsRRlGtJRlQtRVlWuJVlauRZlgvJZlqvR^lwwJ^mAwRbmGxJbmQxRfmWyJfmayRjmgzJjmqzRnmw{JnnA{RrnG|JrnQ|RvnW}Jvna}Rzng~Jznq~R~nx?J~oB?SBoH@KBoR@SFoXAKFobASJohBKJorBSNoxCKNpBCSRpHDKRpQ?CVPa?CTP]?CUPb", 
+        "diameter": 72, 
+        "girth": 4, 
+        "has_multiple_edges": false, 
+        "is_arc_transitive": false, 
+        "is_bipartite": true, 
+        "is_cayley": true, 
+        "is_distance_regular": false, 
+        "is_distance_transitive": false, 
+        "is_edge_transitive": false, 
+        "is_eulerian": false, 
+        "is_forest": false, 
+        "is_hamiltonian": true, 
+        "is_overfull": false, 
+        "is_partial_cube": true, 
+        "is_regular": true, 
+        "is_split": false, 
+        "is_strongly_regular": false, 
+        "is_tree": false, 
+        "is_vertex_transitive": true, 
+        "name": "142-Prism", 
+        "number_of_loops": 0, 
+        "order": 284, 
+        "size": 426, 
+        "triangles_count": 0
+    }, 
+    "graph_cvt": {
+        "cvt_index": 9, 
+        "is_moebius_ladder": false, 
+        "is_prism": true, 
+        "is_spx": false
+    }, 
+    "graph_vt": {}, 
+    "object": {
+        "alias": [
+            "142-Prism", 
+            "GP(142,1)", 
+            "Generalized Petersen graph (142, 1)", 
+            "Y142"
+        ], 
+        "unique_id": {
+            "bliss": "1922f4af8e30ac5cc3186773619ba8b6a8c1aa50f6d0932ac5486c2a647f9ba7", 
+            "sage": "51f325d200dd38c86595f15bdfa38b733a96051b7274e454d33b61bb344260ee"
+        }
+    }
+}

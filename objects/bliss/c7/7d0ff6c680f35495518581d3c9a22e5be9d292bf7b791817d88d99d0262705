@@ -1,0 +1,45 @@
+{
+    "graph": {
+        "average_degree": 12.0, 
+        "clique_number": 7, 
+        "connected_components_number": 1, 
+        "data": ":[a@`AaB`BC`ACDcDEaBCF`BDFG`AEFGHfGHIaBCGJ`BDHJK`AEIJKLcDEFJKLM_JKLMN_ABCGK_@BDHLP_@AEIMPQ_CDEFNPQR_FGHIJPQRS_ABCGKOP_@BDHLOQU_@AEIMORUV_CDEFNOSUVW_FGHIJOTUVWX_JKLMNOPQRST", 
+        "diameter": 2, 
+        "girth": 3, 
+        "has_multiple_edges": false, 
+        "is_arc_transitive": true, 
+        "is_bipartite": false, 
+        "is_cayley": false, 
+        "is_distance_regular": true, 
+        "is_distance_transitive": true, 
+        "is_edge_transitive": true, 
+        "is_eulerian": true, 
+        "is_forest": false, 
+        "is_hamiltonian": true, 
+        "is_overfull": false, 
+        "is_partial_cube": false, 
+        "is_regular": true, 
+        "is_split": false, 
+        "is_strongly_regular": true, 
+        "is_tree": false, 
+        "is_vertex_transitive": true, 
+        "name": "Triangular graph T(8)", 
+        "number_of_loops": 0, 
+        "odd_girth": 3, 
+        "order": 28, 
+        "size": 168, 
+        "triangles_count": 336
+    }, 
+    "graph_vt": {
+        "vt_index": 9699
+    }, 
+    "object": {
+        "alias": [
+            "Triangular graph T(8)"
+        ], 
+        "unique_id": {
+            "bliss": "c77d0ff6c680f35495518581d3c9a22e5be9d292bf7b791817d88d99d0262705", 
+            "sage": "0a8938b74b9c40c5f980a77df5813f8d764422f0f1e0978b1f11dcbb05d501ea"
+        }
+    }
+}

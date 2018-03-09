@@ -1,0 +1,46 @@
+{
+    "graph": {
+        "average_degree": 20.0, 
+        "chromatic_index": 21, 
+        "clique_number": 11, 
+        "connected_components_number": 1, 
+        "data": ":Va@_A_@B_@AB_@ACD_@ABCD_@ABCEF_@ABCDEF_@ABCDEGH_@ABCDEFGH_@ABCDEFGIJ_@ABCDEFGHIJ_@ABCDEFGHIKL_@ABCDEFGHIJKL_@ABCDEFGHIJKMN_@ABCDEFGHIJKLMN_@ABCDEFGHIJKLMOP_@ABCDEFGHIJKLMNOP_@ABCDEFGHIJKLMNOQR_@ABCDEFGHIJKLMNOPQR_@ABCDEFGHIJKLMNOPQS", 
+        "diameter": 2, 
+        "girth": 3, 
+        "has_multiple_edges": false, 
+        "is_arc_transitive": false, 
+        "is_bipartite": false, 
+        "is_cayley": true, 
+        "is_distance_regular": false, 
+        "is_distance_transitive": false, 
+        "is_edge_transitive": false, 
+        "is_eulerian": true, 
+        "is_forest": false, 
+        "is_hamiltonian": true, 
+        "is_overfull": true, 
+        "is_partial_cube": false, 
+        "is_regular": true, 
+        "is_split": false, 
+        "is_strongly_regular": false, 
+        "is_tree": false, 
+        "is_vertex_transitive": true, 
+        "name": "23-Antihole", 
+        "number_of_loops": 0, 
+        "odd_girth": 3, 
+        "order": 23, 
+        "size": 230, 
+        "triangles_count": 1311
+    }, 
+    "graph_vt": {
+        "vt_index": 187
+    }, 
+    "object": {
+        "alias": [
+            "23-Antihole"
+        ], 
+        "unique_id": {
+            "bliss": "7faa8f0978d4ec44b0a56d246cec916b4e307244f0ff71da5c57c3ad3f93a37e", 
+            "sage": "6e4a0dbe8f1009212acf519605b66109905e45182c14f53e4f14ba69ab7f3853"
+        }
+    }
+}

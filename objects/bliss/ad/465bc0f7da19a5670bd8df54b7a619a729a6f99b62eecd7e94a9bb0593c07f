@@ -1,0 +1,50 @@
+{
+    "graph": {
+        "average_degree": 3.0, 
+        "clique_number": 2, 
+        "connected_components_number": 1, 
+        "data": ":~?AA_O@_gB_cD_sK@[J`cA?{@@CB_cE_kA_KB_cZAKQ`sL`wRa?SaGTaOU`WV`_W`gZ`o[bO\\bG]bW\\b_]a[SbKYakU`SHbKYa{W`KI_{G`KIeGzeO{dgzdo{eWve_weowegvcWnc_ocGjcOkdOtdGubwrc?scwxd?ycgxcoyd[kdkmd{oeKqihVipWghPgpQfpRfhShHThPUgHVgPWhXOh`NfxFg@GgXLg`MiLQidRlHjlPkjxhk@ikHjkPkjX\\j`]kXdk`ejHgjPfmXtm`ulxqm@plhvlpw_@xN[?NP{_@|Nv", 
+        "diameter": 8, 
+        "girth": 8, 
+        "has_multiple_edges": false, 
+        "is_arc_transitive": false, 
+        "is_bipartite": false, 
+        "is_cayley": true, 
+        "is_distance_regular": false, 
+        "is_distance_transitive": false, 
+        "is_edge_transitive": false, 
+        "is_eulerian": false, 
+        "is_forest": false, 
+        "is_hamiltonian": true, 
+        "is_overfull": false, 
+        "is_partial_cube": false, 
+        "is_regular": true, 
+        "is_split": false, 
+        "is_strongly_regular": false, 
+        "is_tree": false, 
+        "is_vertex_transitive": true, 
+        "name": "Generalized Petersen graph (65, 14)", 
+        "number_of_loops": 0, 
+        "odd_girth": 15, 
+        "order": 130, 
+        "size": 195, 
+        "triangles_count": 0
+    }, 
+    "graph_cvt": {
+        "cvt_index": 2, 
+        "is_moebius_ladder": false, 
+        "is_prism": false, 
+        "is_spx": false
+    }, 
+    "graph_vt": {}, 
+    "object": {
+        "alias": [
+            "GP(65,14)", 
+            "Generalized Petersen graph (65, 14)"
+        ], 
+        "unique_id": {
+            "bliss": "ad465bc0f7da19a5670bd8df54b7a619a729a6f99b62eecd7e94a9bb0593c07f", 
+            "sage": "5064343fac90ca1cc2e512704deea0164d542509c936fc8f5248a6bec6abf039"
+        }
+    }
+}

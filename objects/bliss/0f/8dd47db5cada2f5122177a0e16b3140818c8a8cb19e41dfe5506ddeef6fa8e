@@ -1,0 +1,52 @@
+{
+    "graph": {
+        "average_degree": 3.0, 
+        "clique_number": 2, 
+        "connected_components_number": 1, 
+        "data": ":~?@e__EA_OMA_WKD`?YD`g[Ha?iHagkLb?yLbg{Pc@IPchKTd@YTdh[Xe@iXehk\\f@y\\fh{`gAI`giKdhAYdhi[hiAihiikljAylji{pkBIpkjKtlBYtlj[xmBixmjk|nBy|nj|@oCJ@okLDpCZDpk\\HqCjHqklLrCzLrk|PsDJPslLTtDZTtl\\XuDjXull\\vDz\\vg@`Wg@^WW@_Wn", 
+        "diameter": 26, 
+        "girth": 4, 
+        "has_multiple_edges": false, 
+        "is_arc_transitive": false, 
+        "is_bipartite": false, 
+        "is_cayley": true, 
+        "is_distance_regular": false, 
+        "is_distance_transitive": false, 
+        "is_edge_transitive": false, 
+        "is_eulerian": false, 
+        "is_forest": false, 
+        "is_hamiltonian": true, 
+        "is_overfull": false, 
+        "is_partial_cube": false, 
+        "is_regular": true, 
+        "is_split": false, 
+        "is_strongly_regular": false, 
+        "is_tree": false, 
+        "is_vertex_transitive": true, 
+        "name": "51-Prism", 
+        "number_of_loops": 0, 
+        "odd_girth": 51, 
+        "order": 102, 
+        "size": 153, 
+        "triangles_count": 0
+    }, 
+    "graph_cvt": {
+        "cvt_index": 14, 
+        "is_moebius_ladder": false, 
+        "is_prism": true, 
+        "is_spx": false
+    }, 
+    "graph_vt": {}, 
+    "object": {
+        "alias": [
+            "51-Prism", 
+            "GP(51,1)", 
+            "Generalized Petersen graph (51, 1)", 
+            "Y51"
+        ], 
+        "unique_id": {
+            "bliss": "0f8dd47db5cada2f5122177a0e16b3140818c8a8cb19e41dfe5506ddeef6fa8e", 
+            "sage": "25bf5db6e3c50d185b451f2197cb83ca0aab4a30ba003271942d190c2bcdeaa4"
+        }
+    }
+}

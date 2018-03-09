@@ -1,0 +1,57 @@
+{
+    "_ref": [
+        [
+            "bliss", 
+            "70b9a7f0e2d143cde3c65a31568718ebf551b0cbb6135e402fe63cd19140861b"
+        ]
+    ], 
+    "graph": {
+        "average_degree": 3.0, 
+        "clique_number": 3, 
+        "connected_components_number": 1, 
+        "data": ":KcESXBaQ\\BoMa@WET", 
+        "diameter": 3, 
+        "girth": 3, 
+        "has_multiple_edges": false, 
+        "is_arc_transitive": false, 
+        "is_bipartite": false, 
+        "is_cayley": true, 
+        "is_distance_regular": false, 
+        "is_distance_transitive": false, 
+        "is_edge_transitive": false, 
+        "is_eulerian": false, 
+        "is_forest": false, 
+        "is_hamiltonian": true, 
+        "is_overfull": false, 
+        "is_partial_cube": false, 
+        "is_regular": true, 
+        "is_split": false, 
+        "is_strongly_regular": false, 
+        "is_tree": false, 
+        "is_vertex_transitive": true, 
+        "name": "Truncated Tetrahedron", 
+        "number_of_loops": 0, 
+        "odd_girth": 3, 
+        "order": 12, 
+        "size": 18, 
+        "triangles_count": 4
+    }, 
+    "graph_cvt": {
+        "cvt_index": 2, 
+        "is_moebius_ladder": false, 
+        "is_prism": false, 
+        "is_spx": false
+    }, 
+    "graph_vt": {
+        "vt_index": 11
+    }, 
+    "object": {
+        "alias": [
+            "Truncated Tetrahedron"
+        ], 
+        "unique_id": {
+            "bliss": "cdf6ad389cc761bb616871df1bcddba141f677e4808698b66b5eed97781e60fe", 
+            "sage": "0b3895a7ab93bfd9271649831bd83853d6f5e7f170482fd12cda9b3536067a18"
+        }
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "graph": {
+        "average_degree": 3.0, 
+        "clique_number": 2, 
+        "connected_components_number": 1, 
+        "data": ":OcEKXccQ[ifka}GJX@IwIX", 
+        "diameter": 5, 
+        "girth": 4, 
+        "has_multiple_edges": false, 
+        "is_arc_transitive": false, 
+        "is_bipartite": true, 
+        "is_cayley": true, 
+        "is_distance_regular": false, 
+        "is_distance_transitive": false, 
+        "is_edge_transitive": false, 
+        "is_eulerian": false, 
+        "is_forest": false, 
+        "is_hamiltonian": true, 
+        "is_overfull": false, 
+        "is_partial_cube": true, 
+        "is_regular": true, 
+        "is_split": false, 
+        "is_strongly_regular": false, 
+        "is_tree": false, 
+        "is_vertex_transitive": true, 
+        "name": "8-Prism", 
+        "number_of_loops": 0, 
+        "order": 16, 
+        "size": 24, 
+        "triangles_count": 0
+    }, 
+    "graph_cvt": {
+        "cvt_index": 3, 
+        "is_moebius_ladder": false, 
+        "is_prism": true, 
+        "is_spx": true
+    }, 
+    "graph_spx": {
+        "spx_r": 2, 
+        "spx_s": 2
+    }, 
+    "graph_vt": {
+        "vt_index": 8
+    }, 
+    "object": {
+        "alias": [
+            "8-Prism", 
+            "GP(8,1)", 
+            "Generalized Petersen graph (8, 1)", 
+            "Y8"
+        ], 
+        "unique_id": {
+            "bliss": "0001ff094ffe6b71d7e51deea4e1f60db3ceff93470460258458878075719281", 
+            "sage": "902113cb522f8ffbfa199e20717e83678e0aa380d9f09bfa15ef4895db50906d"
+        }
+    }
+}

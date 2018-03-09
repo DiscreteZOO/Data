@@ -1,0 +1,46 @@
+{
+    "graph": {
+        "average_degree": 14.0, 
+        "chromatic_index": 15, 
+        "clique_number": 4, 
+        "connected_components_number": 1, 
+        "data": ":\\bAabbCDaCD`DF`ABCG`BCEG`ACDEGH`ACDFI`BDEFHK`ABEFGI_CEGHIJL_ABDGHKLN_ADFGIJKN_BCDFGIMNO_ABEFJLMNP_BCDEHIKP_ACEFGHMOS_@AEIKLMNOPT_@BFGHILPRST_@CFHKLMNQRS_@DEGJKMORSTW_@ABCIJKOQRVX_@ABDHJMPQSUW_@CDEFJLQTUVYZ", 
+        "diameter": 2, 
+        "girth": 3, 
+        "has_multiple_edges": false, 
+        "is_arc_transitive": true, 
+        "is_bipartite": false, 
+        "is_cayley": true, 
+        "is_distance_regular": true, 
+        "is_distance_transitive": true, 
+        "is_edge_transitive": true, 
+        "is_eulerian": true, 
+        "is_forest": false, 
+        "is_hamiltonian": true, 
+        "is_overfull": true, 
+        "is_partial_cube": false, 
+        "is_regular": true, 
+        "is_split": false, 
+        "is_strongly_regular": true, 
+        "is_tree": false, 
+        "is_vertex_transitive": true, 
+        "name": "Paley(29) graph", 
+        "number_of_loops": 0, 
+        "odd_girth": 3, 
+        "order": 29, 
+        "size": 203, 
+        "triangles_count": 406
+    }, 
+    "graph_vt": {
+        "vt_index": 653
+    }, 
+    "object": {
+        "alias": [
+            "Paley(29) graph"
+        ], 
+        "unique_id": {
+            "bliss": "914364df0e2df3e961ad513cc20d8dec21cec5aeacb21e60f803c6aed92dcb79", 
+            "sage": "85a8412e506bb3ca5ddc97e4f7ce5236bd619ea2981f4ed2571526cfe48bb013"
+        }
+    }
+}

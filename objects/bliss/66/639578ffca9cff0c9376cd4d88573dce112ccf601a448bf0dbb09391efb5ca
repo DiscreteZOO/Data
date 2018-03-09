@@ -1,0 +1,51 @@
+{
+    "graph": {
+        "average_degree": 3.0, 
+        "clique_number": 2, 
+        "connected_components_number": 1, 
+        "data": ":~?B[_O@_K@_WC_OC_[A_gF_oG_{G`GJ`OK`[K`gN`oO`{OaGRaOSa[SagVaoWa{WbGZbO[b[[bg^bo_b{_cGbcOcc[ccgfcogc{gdGjdOkd[kdgndood{oeGreOse[segveowe{wfGzfO{f[{fg~fp?f|?gHBgPCg\\CghFgpGg|GhHJhPKh\\KhhNhpOh|OiHRiPSi\\SihVipWi|WjHZjP[j\\[jh^jp_j|_kHbkPck\\ckhfkpgk|glHjlPkl\\klhnlpol|omHrmPsm\\smhvmpwm|wnHznP{n\\{nh~nq?n}?oIBoQCo]CoiFoqGo}GpIJpQKp]KpiNpqOp}OqIRqQSq]SqiVqqWq}WrIZrQ[r][ri^rq_r}_sIbsQcs]csifsqgs}gtIjtQkt]ktintqot}ouIruQsu]suivuqwu}wvIzvQ{v]{vi~vr?v~?wJBwRCw^CwjFwrGw~GxJJxRKx^KxjNxrOx~OyJRyRSy^S_BVZC?YjV_BUZF", 
+        "diameter": 56, 
+        "girth": 4, 
+        "has_multiple_edges": false, 
+        "is_arc_transitive": false, 
+        "is_bipartite": true, 
+        "is_cayley": true, 
+        "is_distance_regular": false, 
+        "is_distance_transitive": false, 
+        "is_edge_transitive": false, 
+        "is_eulerian": false, 
+        "is_forest": false, 
+        "is_hamiltonian": true, 
+        "is_overfull": false, 
+        "is_partial_cube": true, 
+        "is_regular": true, 
+        "is_split": false, 
+        "is_strongly_regular": false, 
+        "is_tree": false, 
+        "is_vertex_transitive": true, 
+        "name": "110-Prism", 
+        "number_of_loops": 0, 
+        "order": 220, 
+        "size": 330, 
+        "triangles_count": 0
+    }, 
+    "graph_cvt": {
+        "cvt_index": 30, 
+        "is_moebius_ladder": false, 
+        "is_prism": true, 
+        "is_spx": false
+    }, 
+    "graph_vt": {}, 
+    "object": {
+        "alias": [
+            "110-Prism", 
+            "GP(110,1)", 
+            "Generalized Petersen graph (110, 1)", 
+            "Y110"
+        ], 
+        "unique_id": {
+            "bliss": "66639578ffca9cff0c9376cd4d88573dce112ccf601a448bf0dbb09391efb5ca", 
+            "sage": "1001cfd48f56f82e63b816653e41fbc2f8283d670bb47bee1808aec56d82538b"
+        }
+    }
+}

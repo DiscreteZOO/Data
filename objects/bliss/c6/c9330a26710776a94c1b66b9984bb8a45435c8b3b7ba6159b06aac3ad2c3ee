@@ -1,0 +1,52 @@
+{
+    "graph": {
+        "average_degree": 3.0, 
+        "clique_number": 2, 
+        "connected_components_number": 1, 
+        "data": ":~?Bq_O@_S@?[A_KB?kC?sD_sF@KG@SH`SJ@kK@sL`sNAKOASPaSRAkSAsTasVBKWBSXbSZBk[Bs\\bs^CK_CS`cSbCkcCsdcsfDKgDShdSjDkkDsldsnEKoESpeSrEksEstesvFKwFSxfSzFk{Fs|fs~GL?GT@gTBGlCGtDgtFHLGHTHhTJHlKHtLhtNILOITPiTRIlSItTitVJLWJTXjTZJl[Jt\\jt^KL_KT`kTbKlcKtdktfLLgLThlTjLlkLtlltnMLoMTpmTrMlsMttmtvNLwNTxnTzNl{Nt|nt~OM?OU@oUBOmCOuDouFPMGPUHpUJPmKPuLpuNQMOQUPqURQmSQuTquVRMWRUXrUZRm[Ru\\ru^SM_SU`sUbSmcSudsufTMgTUhtUjTmkTultunUMoUUpuUrUmsUutuuvVMwVUxvUzVm{Vu|vu~WN?WV@wVBWnCWvDwvFXNGXVHxVJXnKXvLxvNYNOYVPyVRYnSYvTyvVZNWZVXzVZZn[Zv\\zv^[N_[V`{Vb[nc[vd{vf\\Ng\\Vh|S?\\jm_Bj\\k?\\bm", 
+        "diameter": 61, 
+        "girth": 4, 
+        "has_multiple_edges": false, 
+        "is_arc_transitive": false, 
+        "is_bipartite": false, 
+        "is_cayley": true, 
+        "is_distance_regular": false, 
+        "is_distance_transitive": false, 
+        "is_edge_transitive": false, 
+        "is_eulerian": false, 
+        "is_forest": false, 
+        "is_hamiltonian": true, 
+        "is_overfull": false, 
+        "is_partial_cube": false, 
+        "is_regular": true, 
+        "is_split": false, 
+        "is_strongly_regular": false, 
+        "is_tree": false, 
+        "is_vertex_transitive": true, 
+        "name": "121-Prism", 
+        "number_of_loops": 0, 
+        "odd_girth": 121, 
+        "order": 242, 
+        "size": 363, 
+        "triangles_count": 0
+    }, 
+    "graph_cvt": {
+        "cvt_index": 19, 
+        "is_moebius_ladder": false, 
+        "is_prism": true, 
+        "is_spx": false
+    }, 
+    "graph_vt": {}, 
+    "object": {
+        "alias": [
+            "121-Prism", 
+            "GP(121,1)", 
+            "Generalized Petersen graph (121, 1)", 
+            "Y121"
+        ], 
+        "unique_id": {
+            "bliss": "c6c9330a26710776a94c1b66b9984bb8a45435c8b3b7ba6159b06aac3ad2c3ee", 
+            "sage": "a548e10b7f9bdaa7e02b8b63a0e044505eb15143e53843e8a44a61c215c81a77"
+        }
+    }
+}

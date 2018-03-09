@@ -1,0 +1,51 @@
+{
+    "graph": {
+        "average_degree": 3.0, 
+        "clique_number": 2, 
+        "connected_components_number": 1, 
+        "data": ":~?C__G?W@_E?oC_G@GB_I@OF_WAGF_aAOJ_gBGJ_qBON_wCGN`ACOR`GDGR`QDOV`WEGV`aEOZ`gFGZ`qFO^`wGG^aAGObaGHGbaQHOfaWIGfaaIOjagJGjaqJOnawKGnbAKOrbGLGrbQLOvbWMGvbaMOzbgNGzbqNO~bwOG~cAOPBcGPHBcQPPFcWQHFcaQPJcgRHJcqRPNcwSHNdASPRdGTHRdQTPVdWUHVdaUPZdgVHZdqVP^dwWH^eAWPbeGXHbeQXPfeWYHfeaYPjegZHjeqZPnew[HnfA[PrfG\\HrfQ\\PvfW]Hvfa]Pzfg^Hzfq^P~fw_H~gA_QBgG`IBgQ`QFgWaIFgaaQJggbIJgqbQNgwcINhAcQRhGdIRhQdQVhWeIVhaeQZhgfIZhqfQ^hwgI^iAgQbiGhIbiQhQfiWiIfiaiQjigjIjiqjQniwkInjAkQrjGlIrjQlQvjWmIvjamQzjgnIzjqnQ~jwoI~kAoRBkGpJBkQpRFkWqJFkaqRJkgrJJkqrRNkwsJNlAsRRlGtJRlQtRVlWuJVlauRZlgvJZlqvR^lwwJ^mAwRbmGxJbmQxRfmWyJfmayRjmgzJjmqzRnmw{JnnA{RrnG|JrnQ|RvnW}Jvna}Rzng~Jznq~R~nx?J~oB?SBoH@KBoR@SFoXAKFobASJohBKJorBSNoxCKNpBCSRpHDKRpRDSVpXEKVpa?CZPq?CXPm?CYPr", 
+        "diameter": 73, 
+        "girth": 4, 
+        "has_multiple_edges": false, 
+        "is_arc_transitive": false, 
+        "is_bipartite": true, 
+        "is_cayley": true, 
+        "is_distance_regular": false, 
+        "is_distance_transitive": false, 
+        "is_edge_transitive": false, 
+        "is_eulerian": false, 
+        "is_forest": false, 
+        "is_hamiltonian": true, 
+        "is_overfull": false, 
+        "is_partial_cube": true, 
+        "is_regular": true, 
+        "is_split": false, 
+        "is_strongly_regular": false, 
+        "is_tree": false, 
+        "is_vertex_transitive": true, 
+        "name": "144-Prism", 
+        "number_of_loops": 0, 
+        "order": 288, 
+        "size": 432, 
+        "triangles_count": 0
+    }, 
+    "graph_cvt": {
+        "cvt_index": 34, 
+        "is_moebius_ladder": false, 
+        "is_prism": true, 
+        "is_spx": false
+    }, 
+    "graph_vt": {}, 
+    "object": {
+        "alias": [
+            "144-Prism", 
+            "GP(144,1)", 
+            "Generalized Petersen graph (144, 1)", 
+            "Y144"
+        ], 
+        "unique_id": {
+            "bliss": "8986e140aebe0683ea9bead8b42327ca91726d3b5f6769f7e176df170499cd2f", 
+            "sage": "6d8268c115aeaedd16e218e0c9666f6bf10b966aa774c2de92caf5b7fb794a41"
+        }
+    }
+}

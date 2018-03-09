@@ -1,0 +1,55 @@
+{
+    "_ref": [
+        [
+            "bliss", 
+            "8a8c176dcab26721bb985e970d8f4d6b7633cee4aea12165948cbd616f419212"
+        ]
+    ], 
+    "graph": {
+        "average_degree": 3.0, 
+        "clique_number": 3, 
+        "connected_components_number": 1, 
+        "data": ":~?@G`?MAa?]E_WCI_wIC`W_KaOuEBg[N`oaEAWKC__U@b@ALCWwQbpMSdXaWFxYVaaEJGhu]gQMaHHsdfaY^gIUeeQmYJHklfAyjJyoojREmKiihhr]gMJ[xmBirlJS}lbu|OJw~mzpB_CLC_CE?OcZ", 
+        "diameter": 8, 
+        "girth": 3, 
+        "has_multiple_edges": false, 
+        "is_arc_transitive": false, 
+        "is_bipartite": false, 
+        "is_cayley": true, 
+        "is_distance_regular": false, 
+        "is_distance_transitive": false, 
+        "is_edge_transitive": false, 
+        "is_eulerian": false, 
+        "is_forest": false, 
+        "is_hamiltonian": true, 
+        "is_overfull": false, 
+        "is_partial_cube": false, 
+        "is_regular": true, 
+        "is_split": false, 
+        "is_strongly_regular": false, 
+        "is_tree": false, 
+        "is_vertex_transitive": true, 
+        "name": "Truncated Nauru graph", 
+        "number_of_loops": 0, 
+        "odd_girth": 3, 
+        "order": 72, 
+        "size": 108, 
+        "triangles_count": 24
+    }, 
+    "graph_cvt": {
+        "cvt_index": 34, 
+        "is_moebius_ladder": false, 
+        "is_prism": false, 
+        "is_spx": false
+    }, 
+    "graph_vt": {}, 
+    "object": {
+        "alias": [
+            "Truncated Nauru graph"
+        ], 
+        "unique_id": {
+            "bliss": "4e49026815b42f9c7c7e167d98403cb4f8ecc6b28a4e5d4d11cc79f447677692", 
+            "sage": "14da030af10ee8fe3fd810efafb57b55f2a525b3ab8edc9e169bfd31bb7a8018"
+        }
+    }
+}

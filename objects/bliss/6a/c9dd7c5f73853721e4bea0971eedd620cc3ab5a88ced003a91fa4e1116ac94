@@ -1,0 +1,45 @@
+{
+    "graph": {
+        "average_degree": 10.0, 
+        "clique_number": 5, 
+        "connected_components_number": 1, 
+        "data": ":OcEGgaFCOqOEOk@CIY?`dK]?`cK\\C?cIW{?bIXAg@EOqTJ_CPRgSm?PCMdREoAGYCjWtv", 
+        "diameter": 2, 
+        "girth": 3, 
+        "has_multiple_edges": false, 
+        "is_arc_transitive": true, 
+        "is_bipartite": false, 
+        "is_cayley": true, 
+        "is_distance_regular": true, 
+        "is_distance_transitive": true, 
+        "is_edge_transitive": true, 
+        "is_eulerian": true, 
+        "is_forest": false, 
+        "is_hamiltonian": true, 
+        "is_overfull": false, 
+        "is_partial_cube": false, 
+        "is_regular": true, 
+        "is_split": false, 
+        "is_strongly_regular": true, 
+        "is_tree": false, 
+        "is_vertex_transitive": true, 
+        "name": "Halved 5-cube", 
+        "number_of_loops": 0, 
+        "odd_girth": 3, 
+        "order": 16, 
+        "size": 80, 
+        "triangles_count": 160
+    }, 
+    "graph_vt": {
+        "vt_index": 251
+    }, 
+    "object": {
+        "alias": [
+            "Halved 5-cube"
+        ], 
+        "unique_id": {
+            "bliss": "6ac9dd7c5f73853721e4bea0971eedd620cc3ab5a88ced003a91fa4e1116ac94", 
+            "sage": "4c3541d6981eba856830ebe3c3c636b9f21ad1041265762f372d3f328cc6b475"
+        }
+    }
+}

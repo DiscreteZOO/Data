@@ -1,0 +1,53 @@
+{
+    "graph": {
+        "average_degree": 3.0, 
+        "clique_number": 2, 
+        "connected_components_number": 1, 
+        "data": ":Sa@``bCaCbadFeGfghJiKjk_NO_LN_MO", 
+        "diameter": 6, 
+        "girth": 4, 
+        "has_multiple_edges": false, 
+        "is_arc_transitive": false, 
+        "is_bipartite": true, 
+        "is_cayley": true, 
+        "is_distance_regular": false, 
+        "is_distance_transitive": false, 
+        "is_edge_transitive": false, 
+        "is_eulerian": false, 
+        "is_forest": false, 
+        "is_hamiltonian": true, 
+        "is_overfull": false, 
+        "is_partial_cube": true, 
+        "is_regular": true, 
+        "is_split": false, 
+        "is_strongly_regular": false, 
+        "is_tree": false, 
+        "is_vertex_transitive": true, 
+        "name": "10-Prism", 
+        "number_of_loops": 0, 
+        "order": 20, 
+        "size": 30, 
+        "triangles_count": 0
+    }, 
+    "graph_cvt": {
+        "cvt_index": 5, 
+        "is_moebius_ladder": false, 
+        "is_prism": true, 
+        "is_spx": false
+    }, 
+    "graph_vt": {
+        "vt_index": 13
+    }, 
+    "object": {
+        "alias": [
+            "10-Prism", 
+            "GP(10,1)", 
+            "Generalized Petersen graph (10, 1)", 
+            "Y10"
+        ], 
+        "unique_id": {
+            "bliss": "df788c981bce7664642aae9954d6a4edc7ecd38518733fc497b5a5a2e86b7c52", 
+            "sage": "ba141362b5883bb680c66349527e58e0516df519e3aab937169b1ebb45aa4ddf"
+        }
+    }
+}

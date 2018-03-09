@@ -1,0 +1,51 @@
+{
+    "graph": {
+        "average_degree": 3.0, 
+        "clique_number": 2, 
+        "connected_components_number": 1, 
+        "data": ":~?@___E@_WKC__QB_gSF`_aFaGcJa_qJbGsNb`ANcHCRc`QRdHSVd`aVeHcZe`qZfHs^faA^gICbgaQbhISfhaafiIcjiaqjjIsnjbAnkJCrkbQrlJSvlbavmJczmbqznJs~ncA~oKDBocRBpKTFpcbFqKdJqcrJrKtNrdBNsLDRsdRRtLTVtdbVuG@ZVG@XUw@YVN", 
+        "diameter": 25, 
+        "girth": 4, 
+        "has_multiple_edges": false, 
+        "is_arc_transitive": false, 
+        "is_bipartite": true, 
+        "is_cayley": true, 
+        "is_distance_regular": false, 
+        "is_distance_transitive": false, 
+        "is_edge_transitive": false, 
+        "is_eulerian": false, 
+        "is_forest": false, 
+        "is_hamiltonian": true, 
+        "is_overfull": false, 
+        "is_partial_cube": true, 
+        "is_regular": true, 
+        "is_split": false, 
+        "is_strongly_regular": false, 
+        "is_tree": false, 
+        "is_vertex_transitive": true, 
+        "name": "48-Prism", 
+        "number_of_loops": 0, 
+        "order": 96, 
+        "size": 144, 
+        "triangles_count": 0
+    }, 
+    "graph_cvt": {
+        "cvt_index": 17, 
+        "is_moebius_ladder": false, 
+        "is_prism": true, 
+        "is_spx": false
+    }, 
+    "graph_vt": {}, 
+    "object": {
+        "alias": [
+            "48-Prism", 
+            "GP(48,1)", 
+            "Generalized Petersen graph (48, 1)", 
+            "Y48"
+        ], 
+        "unique_id": {
+            "bliss": "8ae7a8b0f8261be30469375de16b4b3bc76c3a2a2623eef0870edb86880e2d7a", 
+            "sage": "49db8f99ce84f660a000a4bd1d72a384d98be0d713e8843dfd97da626845641d"
+        }
+    }
+}

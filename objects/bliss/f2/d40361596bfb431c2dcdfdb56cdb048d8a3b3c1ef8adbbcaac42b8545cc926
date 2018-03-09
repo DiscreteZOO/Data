@@ -1,0 +1,52 @@
+{
+    "graph": {
+        "average_degree": 3.0, 
+        "clique_number": 2, 
+        "connected_components_number": 1, 
+        "data": ":~?Bu_O@_S@?[A_KB?kC?sD_sF@KG@SH`SJ@kK@sL`sNAKOASPaSRAkSAsTasVBKWBSXbSZBk[Bs\\bs^CK_CS`cSbCkcCsdcsfDKgDShdSjDkkDsldsnEKoESpeSrEksEstesvFKwFSxfSzFk{Fs|fs~GL?GT@gTBGlCGtDgtFHLGHTHhTJHlKHtLhtNILOITPiTRIlSItTitVJLWJTXjTZJl[Jt\\jt^KL_KT`kTbKlcKtdktfLLgLThlTjLlkLtlltnMLoMTpmTrMlsMttmtvNLwNTxnTzNl{Nt|nt~OM?OU@oUBOmCOuDouFPMGPUHpUJPmKPuLpuNQMOQUPqURQmSQuTquVRMWRUXrUZRm[Ru\\ru^SM_SU`sUbSmcSudsufTMgTUhtUjTmkTultunUMoUUpuUrUmsUutuuvVMwVUxvUzVm{Vu|vu~WN?WV@wVBWnCWvDwvFXNGXVHxVJXnKXvLxvNYNOYVPyVRYnSYvTyvVZNWZVXzVZZn[Zv\\zv^[N_[V`{Vb[nc[vd{vf\\Ng\\Vh|Vj\\nk\\vl|s?]Jq_Bn]K?]Bq", 
+        "diameter": 62, 
+        "girth": 4, 
+        "has_multiple_edges": false, 
+        "is_arc_transitive": false, 
+        "is_bipartite": false, 
+        "is_cayley": true, 
+        "is_distance_regular": false, 
+        "is_distance_transitive": false, 
+        "is_edge_transitive": false, 
+        "is_eulerian": false, 
+        "is_forest": false, 
+        "is_hamiltonian": true, 
+        "is_overfull": false, 
+        "is_partial_cube": false, 
+        "is_regular": true, 
+        "is_split": false, 
+        "is_strongly_regular": false, 
+        "is_tree": false, 
+        "is_vertex_transitive": true, 
+        "name": "123-Prism", 
+        "number_of_loops": 0, 
+        "odd_girth": 123, 
+        "order": 246, 
+        "size": 369, 
+        "triangles_count": 0
+    }, 
+    "graph_cvt": {
+        "cvt_index": 19, 
+        "is_moebius_ladder": false, 
+        "is_prism": true, 
+        "is_spx": false
+    }, 
+    "graph_vt": {}, 
+    "object": {
+        "alias": [
+            "123-Prism", 
+            "GP(123,1)", 
+            "Generalized Petersen graph (123, 1)", 
+            "Y123"
+        ], 
+        "unique_id": {
+            "bliss": "f2d40361596bfb431c2dcdfdb56cdb048d8a3b3c1ef8adbbcaac42b8545cc926", 
+            "sage": "3e7ecfbaefe7d779ba53aa5f6194292d8c40c72df2d0aa10ef333ca2e7be21fb"
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "graph": {
+        "average_degree": 16.0, 
+        "chromatic_index": 17, 
+        "clique_number": 6, 
+        "connected_components_number": 1, 
+        "data": ":Zb@A`A`ABC`ABCD`ABCDE`ABCEF`ABCDFG`ABCDEGH_ACGHI_ACEFGJ_ACDFHJK_ACDEIJKL_ABDEFKLM_ABFGHJKLN_ABEGIJKMNO_ABDHIJLMNOP_@CDEFKLMN_@CFGHJKLOR_@CEGIJKMPRS_@CDHIJLMQRST_@BEFGKNOPRST_@BDFHLNOQRSUV_@BDEIMNPQRTUVW_@BGHIJOPQSTUVWX", 
+        "diameter": 2, 
+        "girth": 3, 
+        "has_multiple_edges": false, 
+        "is_arc_transitive": true, 
+        "is_bipartite": false, 
+        "is_cayley": true, 
+        "is_distance_regular": true, 
+        "is_distance_transitive": true, 
+        "is_edge_transitive": true, 
+        "is_eulerian": true, 
+        "is_forest": false, 
+        "is_hamiltonian": true, 
+        "is_overfull": true, 
+        "is_partial_cube": false, 
+        "is_regular": true, 
+        "is_split": false, 
+        "is_strongly_regular": true, 
+        "is_tree": false, 
+        "is_vertex_transitive": true, 
+        "name": "Schl\u00e4fli graph", 
+        "number_of_loops": 0, 
+        "odd_girth": 3, 
+        "order": 27, 
+        "size": 216, 
+        "triangles_count": 720
+    }, 
+    "graph_vt": {
+        "vt_index": 1186
+    }, 
+    "object": {
+        "alias": [
+            "Schl\u00e4fli graph"
+        ], 
+        "unique_id": {
+            "bliss": "9e825ba64b5001d0f5f2f359a340033b83f797b94f324978b0c4fd5599233d46", 
+            "sage": "5577d5ab02e7712a647386169f2f87da58aa1109a1786d3432801bcc3ba91284"
+        }
+    }
+}

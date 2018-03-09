@@ -1,0 +1,46 @@
+{
+    "graph": {
+        "average_degree": 2.0, 
+        "chromatic_index": 3, 
+        "clique_number": 3, 
+        "connected_components_number": 7, 
+        "data": ":T__@cBbCfEeFiHhIlKkLoNnOrQqR", 
+        "girth": 3, 
+        "has_multiple_edges": false, 
+        "is_arc_transitive": true, 
+        "is_bipartite": false, 
+        "is_cayley": false, 
+        "is_distance_regular": false, 
+        "is_distance_transitive": false, 
+        "is_edge_transitive": true, 
+        "is_eulerian": false, 
+        "is_forest": false, 
+        "is_hamiltonian": false, 
+        "is_overfull": true, 
+        "is_partial_cube": false, 
+        "is_regular": true, 
+        "is_split": false, 
+        "is_strongly_regular": false, 
+        "is_tree": false, 
+        "is_vertex_transitive": true, 
+        "name": "7K3", 
+        "number_of_loops": 0, 
+        "odd_girth": 3, 
+        "order": 21, 
+        "size": 21, 
+        "triangles_count": 7
+    }, 
+    "graph_vt": {
+        "vt_index": 4
+    }, 
+    "object": {
+        "alias": [
+            "7C3", 
+            "7K3"
+        ], 
+        "unique_id": {
+            "bliss": "1ebd10d3444fb138d1da575dc78ff9a16b05fe09383b5edcef56ea353f43dbb9", 
+            "sage": "3c6367e3ae2f98005f9a92f104a4e491d9c3698af57f0f1f7a987b6ff3ad5c9d"
+        }
+    }
+}

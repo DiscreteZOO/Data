@@ -1,0 +1,44 @@
+{
+    "graph": {
+        "average_degree": 4.0, 
+        "clique_number": 5, 
+        "connected_components_number": 4, 
+        "data": ":S__@_@A_@ABeDdEdEFdEFGjIiJiJKiJKLoNnOnOPnOPQ", 
+        "girth": 3, 
+        "has_multiple_edges": false, 
+        "is_arc_transitive": true, 
+        "is_bipartite": false, 
+        "is_cayley": false, 
+        "is_distance_regular": false, 
+        "is_distance_transitive": false, 
+        "is_edge_transitive": true, 
+        "is_eulerian": false, 
+        "is_forest": false, 
+        "is_hamiltonian": false, 
+        "is_overfull": false, 
+        "is_partial_cube": false, 
+        "is_regular": true, 
+        "is_split": false, 
+        "is_strongly_regular": false, 
+        "is_tree": false, 
+        "is_vertex_transitive": true, 
+        "name": "4K5", 
+        "number_of_loops": 0, 
+        "odd_girth": 3, 
+        "order": 20, 
+        "size": 40, 
+        "triangles_count": 40
+    }, 
+    "graph_vt": {
+        "vt_index": 45
+    }, 
+    "object": {
+        "alias": [
+            "4K5"
+        ], 
+        "unique_id": {
+            "bliss": "d48f1f33cea1c4ca1d749af580baba31ab86ac8e18dec46c2dbdaa7d28a8f280", 
+            "sage": "eea110d9ad0c232555be6bf1f38b59196d5f37978a27812f1bb4c6467b90b441"
+        }
+    }
+}

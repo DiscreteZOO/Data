@@ -1,0 +1,45 @@
+{
+    "graph": {
+        "average_degree": 3.0, 
+        "clique_number": 2, 
+        "connected_components_number": 1, 
+        "data": ":~?Og_C?A?B_K?@_Q?A_S?@_[?A_B_m?@_B_p?C?X_F?H_Y_Q_Z?]_D?E_I_O_P?T_D_G_R?l_N?O_S?^`??J?__H_L_D?L_X_G_I_E?J`H?F?G_H?I_J?K_M?W_M?[_N?l_P?U_O_]_K_^_Y_R_S_L_`?m__?o`Z?T_V_N_U?V_Z?`_R_T_X?Y_Z_V_[_n_m?o_l?n_j_k_i_W_F_E_h`p?f_g_e_M_\\`w?P_Q_U_d_W_c_b_a_a_b_c_daD?e_f_g_h_i_a_c_b_e_^_d_g_f_i_`___]_h_o_k_k_j_j_\\a_?p@k`C@o_s@u_y@G_r_q?r_~@U_v_z`@@G_s@l`Z@[_w@__u?v_y?z_~@m_{@d`P@R`?@A`@@A`D@E`B`C@D`F`G`V`L_|`\\@v`t@u`M@s`Y@b`TAC`O`N@O`Y@w`P@Q`RA\\`S@x`H```S`I`c`T@y`U@V`ZA]`[@\\`]_x`_@{`^@``v`Q`a`K`b@c`d`eAC`eAG_ta\\A]`l@o`v@y`xA^`{A^`hAN`jAW`rAO`pAIaRA\\`zAJ`~AJ`|AL`}AL`nAKa?AOa@AIaBAK`qAQaXA]aAAQaDAW`tAPaEANaGAP`wAT`iAVaFAVaHAS`kAY`uAU`mAM`sA[aCAZaUAZaMAXaYA[aRAS`gA^`fAT`i`h`j_w`n_}_~`E`J`o`q`p`r`z`X`W`YcV@|`}`~a?a@aAaBaDaFaEaHaaAcabAcafAgadaeAfahaiajB[akBObPCGazaqCIarCJavCUawBHatasAtbUBXauAwavCKbTbIaxCLbVCMalbFaxamayAzb?B@a~B@bCbGBJbAbDBGbEBFbBbHBIbKbLapcRCUbMCSbNCTayBSbObPbQBSbRBTbUBVbWbXbYcGCTcJCKcSC`baCHbcCDbgCNbdCQbeCLb_CMblCPbfCWbmCVbhCFbiCYbjCObsCXbkC[btCZb~C\\bnCRbpC]brCEc@C_bqC^bvCIbbCUbwC`b\\BuboBxc?CCb^B|b{CAb`B}b]BybzCBcEcDcFa_a`agaoancHcOcNcPa{a|a}eIBJcQcVcWcXeOCYcZc[c\\c]b[c_c^bZeYCaD|cbD}cfC{cgEHcdccCdcuDHceCfcgD~dNDOcjc|ckE?dIE@cicyd@DScnCpcoCpcvCzcqcwCycxCzcsctcuc{C|c~EGeFEHd?EEd@DEdGENdBdADBdCDEdDDTdGEIdHDIdMDNdOEXcrdFdRdSdUENdTc}dUERchd}D~eEEIeVEXeGEWeNEUd\\DydZD{d[EDdcEBd^E?d]E@d`EAdfEJd_EKdaEMdbECdjELddEFdmEOdeEPdgERdqEXdiDzdpEQdrESdkD|dYEHdsEVdXETdlEWdhEUdVETdWDndoDudwDxdtDvdzdyd{ckeAclcmcveCeBeDeJdJdKdLf~DPdQeKeLeMeOeQePeSe[E]e\\E]ebFIedEhe^ecFqeeEgefEhe`eafFejFsekFteqF}epFAemelEmenEreoEpeqFufCFGewEyexEye_ese~f?F|f@F{fzF}fAFBfCF~fDG?ecegezfEeiere}fFFGfBfqF|ftFuf{GFfOFrfQFnfXFvfRFyfWFpfSF~fTG?fUFwf]FxfVGAf^G@fYFzfZGCf[FofhGBf\\GDfgGEf`FsfPF}faGFf_FifeFffLFbfJFcfdFlfNFmfjFkfKFMfofnfpeYeZedfrfwfvfxeteuevh]E{e|h`Fyg@gAfDgBgCfIgDfHgEhkGGHSgHHRgjH_gPH\\gOG^gKggGhgJGKgMGQgNGOgPHTg`GkgTGVgUGVhZH\\g]HYg\\H[g^G_gmH_g`H]goH^gWgiggHjgeGhgfGiglg[gkGlgmHcgjHdgIg_hSHTh[HchgHjh_HihYHhgvHOgtHQg|HUguHXgyH]gxH^h?HVhBH`gwHWgzHZhGHjg{Hag}Hdg~HPhFHbhIHeh@HRgsH\\hAHigpHfhHHggrHfhCHhgqHDhEHMhJHKhLHNhPhOhQgQgLhUgRgSgZgXgYhWhVhXh`gcgagbgdj@HbhagohegnhoHphnHphqIJhwIrhxIsitJ?iKIuiFIvhri@h}IAh~IAi?I@hmiohviFI~i{J?iBI}iCI|iDIEioI~ipJDitJBi}JCi|JDisJBiQIqi\\IniSIxi]IwicIyiTIliUIuiVIviWIziYI{iZImigJAiXJ@i^IriRJ?i_JCiNI`i[IdieIfiMIPiLIaibIjihIiiOIkimilinhkhlhshthuipiqkCIEiwixiyhyhzh{h|kLIziKiJj@iIiGiHjAkWJEJ{jFJ|jRKUkTjSKBk?KKj}K@jTJ~jMjKJMjJJNjLJNkCjRKFjTKJkGKKjPKIjOKHjQJSjGkBkCKJk@KVk?KMkRKUkSKUj{KMkHKPkIKQkOKVkQKRjhJxj[KBjlKAjaKDjoKEjcKFjbKGjeJzjiJyjZKTj\\KTjfJ~jgJ}jpKLjjJ|j`KKjqKVjdKSjkKPj^KNj]KNjrKOj_JmjnJvjtJujsJwjxjyjzkAjIjHkDkElYJYjVkLjWjUjXlaK]Kjk\\K_k^K_k[kcLXkbLTkaLUk`Kcl_lZL`l]L^l[L\\lGLRkuLXkvLSk|LPk{LQklL_knL_lHLVkxLWl?LTk~LUl@L`k}L`lBL^lALYkoLYkmL\\kwL]kyLZkzL[lFLIlJLKktLCkrKskqLDlELNlLLMkpLOlQlPkZkWkXlRkYkZlSkkkjkikfkklXlVlWkgkhkdkem`MNMOldMPlcMLlbMMlaLdmPM^mOMWmUM_mWMXm[M\\mZM]mVMYljM^m?MIl~MKm@MJl}MRlrMLlpMMlqMNmCMQlsM_loM_lxMTl{MZl|M[lzMTlmMXmAMVmBMYlkMSllMSlnM]ltM\\luMUlvLwlyMGmDMHmEMFmKm^mImJlilimQlhlflglemRnTNGNRnRNSnLNSnLNQnANInBNJn@NKmfNHmgNSmzNOmwNPmxNNmyNQmpNMmuNNmoNMmmNPmnNOm|M~m}N?mlM{mqMrmeMsmvNFnCNDmkMtmhNEmiMjnHmdmbmcm`manKnInJnGnvNwnxNyn_Nrn]Nqn`NtnaNqn^NunbNsngNxnhNwnfNynTNpnYNsnZNrnXNtn[NvnWNpnUNundNenVNcn\\NmnjNlniNknnNon|N~n}ODo?OBo@OCoEOHoFOGoAOJoIOKoMOPoLOOnzOQn{ONoSOUoTOYoWOZoVO[oRO\\oXO]_?O^Oa_?O_O`_?ObOc", 
+        "diameter": 17, 
+        "girth": 10, 
+        "has_multiple_edges": false, 
+        "is_arc_transitive": false, 
+        "is_bipartite": true, 
+        "is_cayley": true, 
+        "is_distance_regular": false, 
+        "is_distance_transitive": false, 
+        "is_edge_transitive": false, 
+        "is_eulerian": false, 
+        "is_forest": false, 
+        "is_hamiltonian": true, 
+        "is_overfull": false, 
+        "is_partial_cube": false, 
+        "is_regular": true, 
+        "is_split": false, 
+        "is_strongly_regular": false, 
+        "is_tree": false, 
+        "is_vertex_transitive": true, 
+        "number_of_loops": 0, 
+        "order": 1064, 
+        "size": 1596, 
+        "triangles_count": 0
+    }, 
+    "graph_cvt": {
+        "cvt_index": 22, 
+        "is_moebius_ladder": false, 
+        "is_prism": false, 
+        "is_spx": false
+    }, 
+    "graph_vt": {}, 
+    "object": {
+        "alias": [], 
+        "unique_id": {
+            "bliss": "d7271242f7184b4a496d9a72f339df62e2a2712f8068ee376f7d51c9bb88384f", 
+            "sage": "9ec8cf182e99ea836c9fd0449503db0d13b2c4386b0501d88ea1de1b60fef220"
+        }
+    }
+}

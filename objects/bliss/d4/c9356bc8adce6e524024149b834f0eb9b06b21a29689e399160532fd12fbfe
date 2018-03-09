@@ -1,0 +1,45 @@
+{
+    "graph": {
+        "average_degree": 7.0, 
+        "clique_number": 3, 
+        "connected_components_number": 1, 
+        "data": ":WbAaaCaDaCaBEaBF`EF`EHI`FGI`DHJ`CGK`BDL`BCMN_CDLM_DEIN_CFIOQ_EGJMP_FHKLP_BGKNQT_BHJORS", 
+        "diameter": 3, 
+        "girth": 3, 
+        "has_multiple_edges": false, 
+        "is_arc_transitive": true, 
+        "is_bipartite": false, 
+        "is_cayley": true, 
+        "is_distance_regular": true, 
+        "is_distance_transitive": false, 
+        "is_edge_transitive": true, 
+        "is_eulerian": false, 
+        "is_forest": false, 
+        "is_hamiltonian": true, 
+        "is_overfull": false, 
+        "is_partial_cube": false, 
+        "is_regular": true, 
+        "is_split": false, 
+        "is_strongly_regular": false, 
+        "is_tree": false, 
+        "is_vertex_transitive": true, 
+        "name": "7-valent Klein graph", 
+        "number_of_loops": 0, 
+        "odd_girth": 3, 
+        "order": 24, 
+        "size": 84, 
+        "triangles_count": 56
+    }, 
+    "graph_vt": {
+        "vt_index": 954
+    }, 
+    "object": {
+        "alias": [
+            "7-valent Klein graph"
+        ], 
+        "unique_id": {
+            "bliss": "d4c9356bc8adce6e524024149b834f0eb9b06b21a29689e399160532fd12fbfe", 
+            "sage": "3091b53a3ad4fad9fa0f29522314ae38078ae430d9363259a5c7d439a64fde93"
+        }
+    }
+}

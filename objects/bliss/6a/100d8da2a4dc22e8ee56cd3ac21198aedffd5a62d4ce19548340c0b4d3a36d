@@ -1,0 +1,52 @@
+{
+    "graph": {
+        "average_degree": 3.0, 
+        "clique_number": 2, 
+        "connected_components_number": 1, 
+        "data": ":~?@Y__EA_OMA_WKD`?YD`g[Ha?iHagkLb?yLbg{Pc@IPchKTd@YTdh[Xe@iXehk\\f@y\\fh{`gAI`giKdhAYdhi[hiAihiikljAylji{pkBIpkjKtlBYtlj[xmBixmjk|nBy|nj|@oCJ@okLDpCZDpk\\HqCjHqklLrCzLrk|PsDJPsg@TTg@RTW@STn", 
+        "diameter": 23, 
+        "girth": 4, 
+        "has_multiple_edges": false, 
+        "is_arc_transitive": false, 
+        "is_bipartite": false, 
+        "is_cayley": true, 
+        "is_distance_regular": false, 
+        "is_distance_transitive": false, 
+        "is_edge_transitive": false, 
+        "is_eulerian": false, 
+        "is_forest": false, 
+        "is_hamiltonian": true, 
+        "is_overfull": false, 
+        "is_partial_cube": false, 
+        "is_regular": true, 
+        "is_split": false, 
+        "is_strongly_regular": false, 
+        "is_tree": false, 
+        "is_vertex_transitive": true, 
+        "name": "45-Prism", 
+        "number_of_loops": 0, 
+        "odd_girth": 45, 
+        "order": 90, 
+        "size": 135, 
+        "triangles_count": 0
+    }, 
+    "graph_cvt": {
+        "cvt_index": 14, 
+        "is_moebius_ladder": false, 
+        "is_prism": true, 
+        "is_spx": false
+    }, 
+    "graph_vt": {}, 
+    "object": {
+        "alias": [
+            "45-Prism", 
+            "GP(45,1)", 
+            "Generalized Petersen graph (45, 1)", 
+            "Y45"
+        ], 
+        "unique_id": {
+            "bliss": "6a100d8da2a4dc22e8ee56cd3ac21198aedffd5a62d4ce19548340c0b4d3a36d", 
+            "sage": "1463fd276dbb41a6ce8e923b4e20fd5b142bb403b335b90bbe8993019fee813a"
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "graph": {
+        "average_degree": 14.0, 
+        "chromatic_index": 15, 
+        "clique_number": 15, 
+        "connected_components_number": 1, 
+        "data": ":N`?K?a_COw@CKc?aEOk?aEOhg@CK`RF_COqDK\\C?aEOhbgR?G`cIWyCi_COqDK\\ATJ_COqDK\\ATJX?G`cIWyCiUpn", 
+        "diameter": 1, 
+        "girth": 3, 
+        "has_multiple_edges": false, 
+        "is_arc_transitive": true, 
+        "is_bipartite": false, 
+        "is_cayley": true, 
+        "is_distance_regular": false, 
+        "is_distance_transitive": false, 
+        "is_edge_transitive": true, 
+        "is_eulerian": true, 
+        "is_forest": false, 
+        "is_hamiltonian": true, 
+        "is_overfull": true, 
+        "is_partial_cube": false, 
+        "is_regular": true, 
+        "is_split": true, 
+        "is_strongly_regular": false, 
+        "is_tree": false, 
+        "is_vertex_transitive": true, 
+        "name": "15-Clique", 
+        "number_of_loops": 0, 
+        "odd_girth": 3, 
+        "order": 15, 
+        "size": 105, 
+        "triangles_count": 455
+    }, 
+    "graph_vt": {
+        "vt_index": 48
+    }, 
+    "object": {
+        "alias": [
+            "15-Clique", 
+            "K15"
+        ], 
+        "unique_id": {
+            "bliss": "2fe0a857f16d698775a847feb831297b9380479a0ef9ff4e81e57f20f504623a", 
+            "sage": "2fe0a857f16d698775a847feb831297b9380479a0ef9ff4e81e57f20f504623a"
+        }
+    }
+}

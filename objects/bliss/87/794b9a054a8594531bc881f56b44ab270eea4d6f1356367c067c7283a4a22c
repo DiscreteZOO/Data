@@ -1,0 +1,45 @@
+{
+    "graph": {
+        "average_degree": 7.0, 
+        "clique_number": 5, 
+        "connected_components_number": 1, 
+        "data": ":I`AGg@D?GqOAGXG@CKhg@CK`XBGSps^", 
+        "diameter": 2, 
+        "girth": 3, 
+        "has_multiple_edges": false, 
+        "is_arc_transitive": false, 
+        "is_bipartite": false, 
+        "is_cayley": true, 
+        "is_distance_regular": false, 
+        "is_distance_transitive": false, 
+        "is_edge_transitive": false, 
+        "is_eulerian": false, 
+        "is_forest": false, 
+        "is_hamiltonian": true, 
+        "is_overfull": false, 
+        "is_partial_cube": false, 
+        "is_regular": true, 
+        "is_split": false, 
+        "is_strongly_regular": false, 
+        "is_tree": false, 
+        "is_vertex_transitive": true, 
+        "name": "10-Antihole", 
+        "number_of_loops": 0, 
+        "odd_girth": 3, 
+        "order": 10, 
+        "size": 35, 
+        "triangles_count": 50
+    }, 
+    "graph_vt": {
+        "vt_index": 20
+    }, 
+    "object": {
+        "alias": [
+            "10-Antihole"
+        ], 
+        "unique_id": {
+            "bliss": "87794b9a054a8594531bc881f56b44ab270eea4d6f1356367c067c7283a4a22c", 
+            "sage": "20a75462545720d9b52732e6c80555273f77052eb3305812b54cd5d936725d76"
+        }
+    }
+}

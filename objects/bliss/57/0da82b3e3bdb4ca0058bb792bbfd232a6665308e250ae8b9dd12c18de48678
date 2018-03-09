@@ -1,0 +1,47 @@
+{
+    "graph": {
+        "average_degree": 4.0, 
+        "clique_number": 3, 
+        "connected_components_number": 1, 
+        "data": ":Ea@_WGxGs", 
+        "diameter": 2, 
+        "girth": 3, 
+        "has_multiple_edges": false, 
+        "is_arc_transitive": true, 
+        "is_bipartite": false, 
+        "is_cayley": true, 
+        "is_distance_regular": false, 
+        "is_distance_transitive": false, 
+        "is_edge_transitive": true, 
+        "is_eulerian": true, 
+        "is_forest": false, 
+        "is_hamiltonian": true, 
+        "is_overfull": false, 
+        "is_partial_cube": false, 
+        "is_regular": true, 
+        "is_split": false, 
+        "is_strongly_regular": false, 
+        "is_tree": false, 
+        "is_vertex_transitive": true, 
+        "name": "Octahedron", 
+        "number_of_loops": 0, 
+        "odd_girth": 3, 
+        "order": 6, 
+        "size": 12, 
+        "triangles_count": 8
+    }, 
+    "graph_vt": {
+        "vt_index": 7
+    }, 
+    "object": {
+        "alias": [
+            "3-Antiprism", 
+            "Octahedron", 
+            "W3"
+        ], 
+        "unique_id": {
+            "bliss": "570da82b3e3bdb4ca0058bb792bbfd232a6665308e250ae8b9dd12c18de48678", 
+            "sage": "474d3c435c310a9e94a459797b36322c2e63c016063497cfcd43618793d7b231"
+        }
+    }
+}

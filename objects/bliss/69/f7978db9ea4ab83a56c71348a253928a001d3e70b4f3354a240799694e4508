@@ -1,0 +1,55 @@
+{
+    "_ref": [
+        [
+            "bliss", 
+            "2d0642dc0553ebf769a91fb160aa9cc79ddfff8ef832504cc8b180cceabc1978"
+        ]
+    ], 
+    "graph": {
+        "average_degree": 3.0, 
+        "clique_number": 3, 
+        "connected_components_number": 1, 
+        "data": ":~?Ag_O@__B_GA_[C`OG`KL@cE_{G`KI`[K`kA_KB?cGACHAKKAcLAkIASJA[E@sF@{Ua{UCKVCSOaKMCkNCsQa[SakhdSjDkkDsDdGldOmdWnd_ocgfcogbk]bKYbcZeKpFsbFCcFK^cC`GSaG[yf[|Gs{G{WfPEfXFf`HfhGf@?fH@gPCgXDeSrhTIIktecue{}I{~JDXjP\\i\\SjH\\jP]ixZj@[iX^i`_iLQilUj|_h`jhXkhhhhpih|OmLqM\\flDfMlgMtpM\\qMdjLlkLthL|iMDbkddkt`OTaOLtN|uOD~Om?OuAO]@Odznd|ntxP\\yPdvPlwPuJP}KQELQMMQUFpEHQ}IREVRMWRURqeTRmURu\\R}]SEZrab_AbSc?SK?SQe", 
+        "diameter": 12, 
+        "girth": 3, 
+        "has_multiple_edges": false, 
+        "is_arc_transitive": false, 
+        "is_bipartite": false, 
+        "is_cayley": true, 
+        "is_distance_regular": false, 
+        "is_distance_transitive": false, 
+        "is_edge_transitive": false, 
+        "is_eulerian": false, 
+        "is_forest": false, 
+        "is_hamiltonian": true, 
+        "is_overfull": false, 
+        "is_partial_cube": false, 
+        "is_regular": true, 
+        "is_split": false, 
+        "is_strongly_regular": false, 
+        "is_tree": false, 
+        "is_vertex_transitive": true, 
+        "name": "Truncated Cubic Klein graph", 
+        "number_of_loops": 0, 
+        "odd_girth": 3, 
+        "order": 168, 
+        "size": 252, 
+        "triangles_count": 56
+    }, 
+    "graph_cvt": {
+        "cvt_index": 61, 
+        "is_moebius_ladder": false, 
+        "is_prism": false, 
+        "is_spx": false
+    }, 
+    "graph_vt": {}, 
+    "object": {
+        "alias": [
+            "Truncated Cubic Klein graph"
+        ], 
+        "unique_id": {
+            "bliss": "69f7978db9ea4ab83a56c71348a253928a001d3e70b4f3354a240799694e4508", 
+            "sage": "87fdc0a4cad3d56290195847c168b02a8d2ea9a901390d6dfc2e00a5c271b15e"
+        }
+    }
+}

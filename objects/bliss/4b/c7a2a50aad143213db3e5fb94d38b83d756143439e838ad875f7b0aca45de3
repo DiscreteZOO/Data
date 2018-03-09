@@ -1,0 +1,46 @@
+{
+    "graph": {
+        "average_degree": 16.0, 
+        "chromatic_index": 17, 
+        "clique_number": 9, 
+        "connected_components_number": 1, 
+        "data": ":Ra@_A_@B_@AB_@ACD_@ABCD_@ABCEF_@ABCDEF_@ABCDEGH_@ABCDEFGH_@ABCDEFGIJ_@ABCDEFGHIJ_@ABCDEFGHIKL_@ABCDEFGHIJKL_@ABCDEFGHIJKMN_@ABCDEFGHIJKLMN_@ABCDEFGHIJKLMO", 
+        "diameter": 2, 
+        "girth": 3, 
+        "has_multiple_edges": false, 
+        "is_arc_transitive": false, 
+        "is_bipartite": false, 
+        "is_cayley": true, 
+        "is_distance_regular": false, 
+        "is_distance_transitive": false, 
+        "is_edge_transitive": false, 
+        "is_eulerian": true, 
+        "is_forest": false, 
+        "is_hamiltonian": true, 
+        "is_overfull": true, 
+        "is_partial_cube": false, 
+        "is_regular": true, 
+        "is_split": false, 
+        "is_strongly_regular": false, 
+        "is_tree": false, 
+        "is_vertex_transitive": true, 
+        "name": "19-Antihole", 
+        "number_of_loops": 0, 
+        "odd_girth": 3, 
+        "order": 19, 
+        "size": 152, 
+        "triangles_count": 665
+    }, 
+    "graph_vt": {
+        "vt_index": 59
+    }, 
+    "object": {
+        "alias": [
+            "19-Antihole"
+        ], 
+        "unique_id": {
+            "bliss": "4bc7a2a50aad143213db3e5fb94d38b83d756143439e838ad875f7b0aca45de3", 
+            "sage": "b03226ea3a6d8d0c2b2e0be9d9cca0b19b0403249fc2c7cb47578c3621202898"
+        }
+    }
+}

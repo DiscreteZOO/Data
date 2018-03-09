@@ -1,0 +1,51 @@
+{
+    "graph": {
+        "average_degree": 3.0, 
+        "clique_number": 2, 
+        "connected_components_number": 1, 
+        "data": ":s`?WKEEC`@G[IIFbAG{aQJdBH[qYNfCH|AaRhDI\\QiVjEI|aqZlFJ\\qy^nGJ}BAbpHK]RIfrIK}bQjtJL]q?nWODi}?mW^", 
+        "diameter": 14, 
+        "girth": 4, 
+        "has_multiple_edges": false, 
+        "is_arc_transitive": false, 
+        "is_bipartite": true, 
+        "is_cayley": true, 
+        "is_distance_regular": false, 
+        "is_distance_transitive": false, 
+        "is_edge_transitive": false, 
+        "is_eulerian": false, 
+        "is_forest": false, 
+        "is_hamiltonian": true, 
+        "is_overfull": false, 
+        "is_partial_cube": true, 
+        "is_regular": true, 
+        "is_split": false, 
+        "is_strongly_regular": false, 
+        "is_tree": false, 
+        "is_vertex_transitive": true, 
+        "name": "26-Prism", 
+        "number_of_loops": 0, 
+        "order": 52, 
+        "size": 78, 
+        "triangles_count": 0
+    }, 
+    "graph_cvt": {
+        "cvt_index": 6, 
+        "is_moebius_ladder": false, 
+        "is_prism": true, 
+        "is_spx": false
+    }, 
+    "graph_vt": {}, 
+    "object": {
+        "alias": [
+            "26-Prism", 
+            "GP(26,1)", 
+            "Generalized Petersen graph (26, 1)", 
+            "Y26"
+        ], 
+        "unique_id": {
+            "bliss": "71e80355292439335d93f9a0dde43793c756c98196f76b4a594e9ad06f5bff40", 
+            "sage": "0c3785c17af12049bc1bdba1559eee8988b5796ab4853f47aec6b55c6835a344"
+        }
+    }
+}

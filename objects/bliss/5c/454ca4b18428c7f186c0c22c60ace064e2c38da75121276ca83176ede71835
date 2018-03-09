@@ -1,0 +1,52 @@
+{
+    "graph": {
+        "average_degree": 3.0, 
+        "clique_number": 2, 
+        "connected_components_number": 1, 
+        "data": ":~?@E__EA_OMA_WKD`?YD`g[Ha?iHagkLb?yLbg{Pc@IPchKTd@YTdh[Xe@iXehk\\f@y\\fh{`gAI`giKdhAYdhi[hiAihiikljAylji{pkBIpkjKtlBYtlj[xmBixmjk|nBy|ng@@Og?~OW@?On", 
+        "diameter": 18, 
+        "girth": 4, 
+        "has_multiple_edges": false, 
+        "is_arc_transitive": false, 
+        "is_bipartite": false, 
+        "is_cayley": true, 
+        "is_distance_regular": false, 
+        "is_distance_transitive": false, 
+        "is_edge_transitive": false, 
+        "is_eulerian": false, 
+        "is_forest": false, 
+        "is_hamiltonian": true, 
+        "is_overfull": false, 
+        "is_partial_cube": false, 
+        "is_regular": true, 
+        "is_split": false, 
+        "is_strongly_regular": false, 
+        "is_tree": false, 
+        "is_vertex_transitive": true, 
+        "name": "35-Prism", 
+        "number_of_loops": 0, 
+        "odd_girth": 35, 
+        "order": 70, 
+        "size": 105, 
+        "triangles_count": 0
+    }, 
+    "graph_cvt": {
+        "cvt_index": 11, 
+        "is_moebius_ladder": false, 
+        "is_prism": true, 
+        "is_spx": false
+    }, 
+    "graph_vt": {}, 
+    "object": {
+        "alias": [
+            "35-Prism", 
+            "GP(35,1)", 
+            "Generalized Petersen graph (35, 1)", 
+            "Y35"
+        ], 
+        "unique_id": {
+            "bliss": "5c454ca4b18428c7f186c0c22c60ace064e2c38da75121276ca83176ede71835", 
+            "sage": "4693d2ba2aa2b2dc212a2350010a29d91af1ada68414d91d1bae81e47703fc38"
+        }
+    }
+}

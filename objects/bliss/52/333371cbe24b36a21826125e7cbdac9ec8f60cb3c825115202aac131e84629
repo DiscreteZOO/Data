@@ -1,0 +1,63 @@
+{
+    "graph": {
+        "average_degree": 3.0, 
+        "clique_number": 2, 
+        "connected_components_number": 1, 
+        "data": ":GgXeBQAQAN", 
+        "diameter": 3, 
+        "girth": 4, 
+        "has_multiple_edges": false, 
+        "is_arc_transitive": true, 
+        "is_bipartite": true, 
+        "is_cayley": true, 
+        "is_distance_regular": true, 
+        "is_distance_transitive": true, 
+        "is_edge_transitive": true, 
+        "is_eulerian": false, 
+        "is_forest": false, 
+        "is_hamiltonian": true, 
+        "is_overfull": false, 
+        "is_partial_cube": true, 
+        "is_regular": true, 
+        "is_split": false, 
+        "is_strongly_regular": false, 
+        "is_tree": false, 
+        "is_vertex_transitive": true, 
+        "name": "3-Cube", 
+        "number_of_loops": 0, 
+        "order": 8, 
+        "size": 12, 
+        "triangles_count": 0
+    }, 
+    "graph_cvt": {
+        "cvt_index": 2, 
+        "is_moebius_ladder": false, 
+        "is_prism": true, 
+        "is_spx": true, 
+        "symcubic_index": 1, 
+        "truncation": [
+            "bliss", 
+            "b46c901dc6406f44c78b94b8012c8edc555a6f50055c3680992117ea11c25787"
+        ]
+    }, 
+    "graph_spx": {
+        "spx_r": 2, 
+        "spx_s": 1
+    }, 
+    "graph_vt": {
+        "vt_index": 6
+    }, 
+    "object": {
+        "alias": [
+            "3-Cube", 
+            "4-Prism", 
+            "GP(4,1)", 
+            "Generalized Petersen graph (4, 1)", 
+            "Y4"
+        ], 
+        "unique_id": {
+            "bliss": "52333371cbe24b36a21826125e7cbdac9ec8f60cb3c825115202aac131e84629", 
+            "sage": "abb8714420f190abd8b483325b0efb4a403dbe75b4d6cad28de7945453e6bbe4"
+        }
+    }
+}

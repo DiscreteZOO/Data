@@ -1,0 +1,46 @@
+{
+    "graph": {
+        "average_degree": 4.0, 
+        "clique_number": 3, 
+        "connected_components_number": 1, 
+        "data": ":Ua@`A`B`AbCaDcEdFeGfHgIhJiKjLkMlN_MO_NP_OQ_PRS", 
+        "diameter": 6, 
+        "girth": 3, 
+        "has_multiple_edges": false, 
+        "is_arc_transitive": false, 
+        "is_bipartite": false, 
+        "is_cayley": true, 
+        "is_distance_regular": false, 
+        "is_distance_transitive": false, 
+        "is_edge_transitive": false, 
+        "is_eulerian": true, 
+        "is_forest": false, 
+        "is_hamiltonian": true, 
+        "is_overfull": false, 
+        "is_partial_cube": false, 
+        "is_regular": true, 
+        "is_split": false, 
+        "is_strongly_regular": false, 
+        "is_tree": false, 
+        "is_vertex_transitive": true, 
+        "name": "11-Antiprism", 
+        "number_of_loops": 0, 
+        "odd_girth": 3, 
+        "order": 22, 
+        "size": 44, 
+        "triangles_count": 22
+    }, 
+    "graph_vt": {
+        "vt_index": 17
+    }, 
+    "object": {
+        "alias": [
+            "11-Antiprism", 
+            "W11"
+        ], 
+        "unique_id": {
+            "bliss": "b002a784ef30b430e1ae093c772a64424a40f39a5f287402916214a3fe6d629c", 
+            "sage": "5ebe1f7b58f69b0a6bca28f2d0faf29a947f61a543b26a27b80b907b77e31b83"
+        }
+    }
+}

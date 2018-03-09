@@ -1,0 +1,50 @@
+{
+    "graph": {
+        "average_degree": 3.0, 
+        "clique_number": 3, 
+        "connected_components_number": 3, 
+        "data": ":Q__`A_@aBCfEeFefHgHIlKkLklNmNO", 
+        "girth": 3, 
+        "has_multiple_edges": false, 
+        "is_arc_transitive": false, 
+        "is_bipartite": false, 
+        "is_cayley": false, 
+        "is_distance_regular": false, 
+        "is_distance_transitive": false, 
+        "is_edge_transitive": false, 
+        "is_eulerian": false, 
+        "is_forest": false, 
+        "is_hamiltonian": false, 
+        "is_overfull": false, 
+        "is_partial_cube": false, 
+        "is_regular": true, 
+        "is_split": false, 
+        "is_strongly_regular": false, 
+        "is_tree": false, 
+        "is_vertex_transitive": true, 
+        "name": "3Y3", 
+        "number_of_loops": 0, 
+        "odd_girth": 3, 
+        "order": 18, 
+        "size": 27, 
+        "triangles_count": 6
+    }, 
+    "graph_cvt": {
+        "is_moebius_ladder": false, 
+        "is_prism": false, 
+        "is_spx": false
+    }, 
+    "graph_vt": {
+        "vt_index": 13
+    }, 
+    "object": {
+        "alias": [
+            "3GP(3,1)", 
+            "3Y3"
+        ], 
+        "unique_id": {
+            "bliss": "86f4678d50adabd2d57f32d9ed96f2be320e2f576f1700682e2ff21ac8aab8c1", 
+            "sage": "2507109820bf8d18a267e1bb32447c7517481abe82260088509309606bf3e5e3"
+        }
+    }
+}

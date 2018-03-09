@@ -1,0 +1,55 @@
+{
+    "_ref": [
+        [
+            "bliss", 
+            "2db205763a630e99180fc3e0974b05bb5a1e07d735aee56d19ccc598f96d4c26"
+        ]
+    ], 
+    "graph": {
+        "average_degree": 3.0, 
+        "clique_number": 3, 
+        "connected_components_number": 1, 
+        "data": ":~?@Y__EC?wWDa?]LAWiKawI@_wQD`g]GaPEICgkSb@MLDWwUbp]OEGKC_OID@g[GaOuIBgkOb?}PEXGYcpqSEx[^eAATFXW]giCpgyOrhYYfLY_ukrQpKjSvlbahiimkjRumNi{~kCA|OZxAoCQ~OzixQZm{Q{lKqSjDpk\\NqDBNS\\@QrktT_DTU_DM?TDb", 
+        "diameter": 8, 
+        "girth": 3, 
+        "has_multiple_edges": false, 
+        "is_arc_transitive": false, 
+        "is_bipartite": false, 
+        "is_cayley": false, 
+        "is_distance_regular": false, 
+        "is_distance_transitive": false, 
+        "is_edge_transitive": false, 
+        "is_eulerian": false, 
+        "is_forest": false, 
+        "is_hamiltonian": true, 
+        "is_overfull": false, 
+        "is_partial_cube": false, 
+        "is_regular": true, 
+        "is_split": false, 
+        "is_strongly_regular": false, 
+        "is_tree": false, 
+        "is_vertex_transitive": true, 
+        "name": "Truncated Tutte-Coxeter graph", 
+        "number_of_loops": 0, 
+        "odd_girth": 3, 
+        "order": 90, 
+        "size": 135, 
+        "triangles_count": 30
+    }, 
+    "graph_cvt": {
+        "cvt_index": 20, 
+        "is_moebius_ladder": false, 
+        "is_prism": false, 
+        "is_spx": false
+    }, 
+    "graph_vt": {}, 
+    "object": {
+        "alias": [
+            "Truncated Tutte-Coxeter graph"
+        ], 
+        "unique_id": {
+            "bliss": "2b22f544c8cd082d90163832ecf8a8d15dba156b3b9e1b64e4df83e8d30770e5", 
+            "sage": "b8cea84ef472befef57c7f84abe1653a2bfa6cdd82e15ae3922cc9b98355397e"
+        }
+    }
+}

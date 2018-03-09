@@ -1,0 +1,51 @@
+{
+    "graph": {
+        "average_degree": 3.0, 
+        "clique_number": 2, 
+        "connected_components_number": 1, 
+        "data": ":o`?WKEEC`@G[IIFbAG{aQJdBH[qYNfCH|AaRhDI\\QiVjEI|aqZlFJ\\qy^nGJ}BAbpHK]RIfrIK}a?jUODIm?iU^", 
+        "diameter": 13, 
+        "girth": 4, 
+        "has_multiple_edges": false, 
+        "is_arc_transitive": false, 
+        "is_bipartite": true, 
+        "is_cayley": true, 
+        "is_distance_regular": false, 
+        "is_distance_transitive": false, 
+        "is_edge_transitive": false, 
+        "is_eulerian": false, 
+        "is_forest": false, 
+        "is_hamiltonian": true, 
+        "is_overfull": false, 
+        "is_partial_cube": true, 
+        "is_regular": true, 
+        "is_split": false, 
+        "is_strongly_regular": false, 
+        "is_tree": false, 
+        "is_vertex_transitive": true, 
+        "name": "24-Prism", 
+        "number_of_loops": 0, 
+        "order": 48, 
+        "size": 72, 
+        "triangles_count": 0
+    }, 
+    "graph_cvt": {
+        "cvt_index": 13, 
+        "is_moebius_ladder": false, 
+        "is_prism": true, 
+        "is_spx": false
+    }, 
+    "graph_vt": {}, 
+    "object": {
+        "alias": [
+            "24-Prism", 
+            "GP(24,1)", 
+            "Generalized Petersen graph (24, 1)", 
+            "Y24"
+        ], 
+        "unique_id": {
+            "bliss": "841a8efdd7aba9985656c219d2ed333fe9a943ce498378c32b96f723984da3d6", 
+            "sage": "cb8a7b4c3c15eff7fcc046d6981ced90c1ad83f6f7ccfc5af5aea824796d8337"
+        }
+    }
+}

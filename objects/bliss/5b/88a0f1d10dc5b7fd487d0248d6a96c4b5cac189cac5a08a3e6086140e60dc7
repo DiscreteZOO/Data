@@ -1,0 +1,45 @@
+{
+    "graph": {
+        "average_degree": 2.0, 
+        "clique_number": 3, 
+        "connected_components_number": 8, 
+        "data": ":W__@cBbCfEeFiHhIlKkLoNnOrQqRuTtU", 
+        "girth": 3, 
+        "has_multiple_edges": false, 
+        "is_arc_transitive": true, 
+        "is_bipartite": false, 
+        "is_cayley": false, 
+        "is_distance_regular": false, 
+        "is_distance_transitive": false, 
+        "is_edge_transitive": true, 
+        "is_eulerian": false, 
+        "is_forest": false, 
+        "is_hamiltonian": false, 
+        "is_overfull": false, 
+        "is_partial_cube": false, 
+        "is_regular": true, 
+        "is_split": false, 
+        "is_strongly_regular": false, 
+        "is_tree": false, 
+        "is_vertex_transitive": true, 
+        "name": "8K3", 
+        "number_of_loops": 0, 
+        "odd_girth": 3, 
+        "order": 24, 
+        "size": 24, 
+        "triangles_count": 8
+    }, 
+    "graph_vt": {
+        "vt_index": 8
+    }, 
+    "object": {
+        "alias": [
+            "8C3", 
+            "8K3"
+        ], 
+        "unique_id": {
+            "bliss": "5b88a0f1d10dc5b7fd487d0248d6a96c4b5cac189cac5a08a3e6086140e60dc7", 
+            "sage": "2227cb649d4b6e69086a7b8e6acc4798d2db8e321f4d56a8427d9127daba1f38"
+        }
+    }
+}

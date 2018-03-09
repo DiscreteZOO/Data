@@ -1,0 +1,46 @@
+{
+    "graph": {
+        "average_degree": 8.0, 
+        "chromatic_index": 9, 
+        "clique_number": 3, 
+        "connected_components_number": 1, 
+        "data": ":PbAaB`A`CD`BCE`ABD_ADEF_BDFGH_BCDEI_ACEGH_@BEGJK_@CFGIK_@ACDJM_@ABFHLN", 
+        "diameter": 2, 
+        "girth": 3, 
+        "has_multiple_edges": false, 
+        "is_arc_transitive": true, 
+        "is_bipartite": false, 
+        "is_cayley": true, 
+        "is_distance_regular": true, 
+        "is_distance_transitive": true, 
+        "is_edge_transitive": true, 
+        "is_eulerian": true, 
+        "is_forest": false, 
+        "is_hamiltonian": true, 
+        "is_overfull": true, 
+        "is_partial_cube": false, 
+        "is_regular": true, 
+        "is_split": false, 
+        "is_strongly_regular": true, 
+        "is_tree": false, 
+        "is_vertex_transitive": true, 
+        "name": "Paley(17) graph", 
+        "number_of_loops": 0, 
+        "odd_girth": 3, 
+        "order": 17, 
+        "size": 68, 
+        "triangles_count": 68
+    }, 
+    "graph_vt": {
+        "vt_index": 21
+    }, 
+    "object": {
+        "alias": [
+            "Paley(17) graph"
+        ], 
+        "unique_id": {
+            "bliss": "6c7370d550eaf394ee5eb0da40df78af113e44c8d3efaf660c7a817f0505f3d1", 
+            "sage": "b1c047280e96933241f7f7e1dcb8a54990a11a809e652ced85ea9f1bd9e7dd30"
+        }
+    }
+}

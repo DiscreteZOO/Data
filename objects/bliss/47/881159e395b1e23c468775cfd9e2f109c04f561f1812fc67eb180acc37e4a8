@@ -1,0 +1,44 @@
+{
+    "graph": {
+        "average_degree": 1.0, 
+        "clique_number": 2, 
+        "connected_components_number": 8, 
+        "data": ":O`KTQVLdEt\\X|v", 
+        "has_multiple_edges": false, 
+        "is_arc_transitive": true, 
+        "is_bipartite": true, 
+        "is_cayley": false, 
+        "is_distance_regular": false, 
+        "is_distance_transitive": false, 
+        "is_edge_transitive": true, 
+        "is_eulerian": false, 
+        "is_forest": true, 
+        "is_hamiltonian": false, 
+        "is_overfull": false, 
+        "is_partial_cube": false, 
+        "is_regular": true, 
+        "is_split": false, 
+        "is_strongly_regular": false, 
+        "is_tree": false, 
+        "is_vertex_transitive": true, 
+        "name": "8-Matching", 
+        "number_of_loops": 0, 
+        "order": 16, 
+        "size": 8, 
+        "triangles_count": 0
+    }, 
+    "graph_vt": {
+        "vt_index": 2
+    }, 
+    "object": {
+        "alias": [
+            "8-Matching", 
+            "8K1,1", 
+            "8K2"
+        ], 
+        "unique_id": {
+            "bliss": "47881159e395b1e23c468775cfd9e2f109c04f561f1812fc67eb180acc37e4a8", 
+            "sage": "1f6829eb825828c89d3a20bf232324fb11e375b64fe3fd43a09c4e029b74c50f"
+        }
+    }
+}

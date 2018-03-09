@@ -1,0 +1,58 @@
+{
+    "graph": {
+        "average_degree": 3.0, 
+        "clique_number": 4, 
+        "connected_components_number": 1, 
+        "data": ":CcKI", 
+        "diameter": 1, 
+        "girth": 3, 
+        "has_multiple_edges": false, 
+        "is_arc_transitive": true, 
+        "is_bipartite": false, 
+        "is_cayley": true, 
+        "is_distance_regular": true, 
+        "is_distance_transitive": true, 
+        "is_edge_transitive": true, 
+        "is_eulerian": false, 
+        "is_forest": false, 
+        "is_hamiltonian": true, 
+        "is_overfull": false, 
+        "is_partial_cube": false, 
+        "is_regular": true, 
+        "is_split": true, 
+        "is_strongly_regular": false, 
+        "is_tree": false, 
+        "is_vertex_transitive": true, 
+        "name": "Tetrahedron", 
+        "number_of_loops": 0, 
+        "odd_girth": 3, 
+        "order": 4, 
+        "size": 6, 
+        "triangles_count": 4
+    }, 
+    "graph_cvt": {
+        "cvt_index": 1, 
+        "is_moebius_ladder": true, 
+        "is_prism": false, 
+        "is_spx": false, 
+        "symcubic_index": 1, 
+        "truncation": [
+            "bliss", 
+            "cdf6ad389cc761bb616871df1bcddba141f677e4808698b66b5eed97781e60fe"
+        ]
+    }, 
+    "graph_vt": {
+        "vt_index": 4
+    }, 
+    "object": {
+        "alias": [
+            "2-M\u00f6bius ladder", 
+            "K4", 
+            "Tetrahedron"
+        ], 
+        "unique_id": {
+            "bliss": "70b9a7f0e2d143cde3c65a31568718ebf551b0cbb6135e402fe63cd19140861b", 
+            "sage": "70b9a7f0e2d143cde3c65a31568718ebf551b0cbb6135e402fe63cd19140861b"
+        }
+    }
+}

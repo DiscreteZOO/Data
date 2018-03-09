@@ -1,0 +1,46 @@
+{
+    "graph": {
+        "average_degree": 10.0, 
+        "chromatic_index": 11, 
+        "clique_number": 6, 
+        "connected_components_number": 1, 
+        "data": ":TbAaB`BC`BCD`ACE`ACDF`ABEF`ABDGH_BCDE_BCDEJ_ACFGK_ACFGJL_ABHIKL_ABHIJMN_@EFHKLN_@EFHJMOP_@DGIKLNP_@DGIJMOQR", 
+        "diameter": 2, 
+        "girth": 3, 
+        "has_multiple_edges": false, 
+        "is_arc_transitive": true, 
+        "is_bipartite": false, 
+        "is_cayley": true, 
+        "is_distance_regular": true, 
+        "is_distance_transitive": true, 
+        "is_edge_transitive": true, 
+        "is_eulerian": true, 
+        "is_forest": false, 
+        "is_hamiltonian": true, 
+        "is_overfull": true, 
+        "is_partial_cube": false, 
+        "is_regular": true, 
+        "is_split": false, 
+        "is_strongly_regular": true, 
+        "is_tree": false, 
+        "is_vertex_transitive": true, 
+        "name": "Triangular graph T(7)", 
+        "number_of_loops": 0, 
+        "odd_girth": 3, 
+        "order": 21, 
+        "size": 105, 
+        "triangles_count": 175
+    }, 
+    "graph_vt": {
+        "vt_index": 142
+    }, 
+    "object": {
+        "alias": [
+            "Triangular graph T(7)"
+        ], 
+        "unique_id": {
+            "bliss": "0eb7bf75a05c2e0a71399e8420410622c097b6dbbd7417c3fa6386b446165902", 
+            "sage": "0acc5a0d3d8422c2c63d014d0bdad718eab228f85193a55da816e07e15a0a573"
+        }
+    }
+}

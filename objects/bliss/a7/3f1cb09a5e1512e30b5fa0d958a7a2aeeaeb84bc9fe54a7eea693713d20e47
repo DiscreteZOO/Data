@@ -1,0 +1,45 @@
+{
+    "graph": {
+        "average_degree": 2.0, 
+        "chromatic_index": 3, 
+        "clique_number": 2, 
+        "connected_components_number": 3, 
+        "data": ":Z__`abcdeFiHhijklmnOrQqrstuvwX", 
+        "girth": 9, 
+        "has_multiple_edges": false, 
+        "is_arc_transitive": true, 
+        "is_bipartite": false, 
+        "is_cayley": false, 
+        "is_distance_regular": false, 
+        "is_distance_transitive": false, 
+        "is_edge_transitive": true, 
+        "is_eulerian": false, 
+        "is_forest": false, 
+        "is_hamiltonian": false, 
+        "is_overfull": true, 
+        "is_partial_cube": false, 
+        "is_regular": true, 
+        "is_split": false, 
+        "is_strongly_regular": false, 
+        "is_tree": false, 
+        "is_vertex_transitive": true, 
+        "name": "3C9", 
+        "number_of_loops": 0, 
+        "odd_girth": 9, 
+        "order": 27, 
+        "size": 27, 
+        "triangles_count": 0
+    }, 
+    "graph_vt": {
+        "vt_index": 3
+    }, 
+    "object": {
+        "alias": [
+            "3C9"
+        ], 
+        "unique_id": {
+            "bliss": "a73f1cb09a5e1512e30b5fa0d958a7a2aeeaeb84bc9fe54a7eea693713d20e47", 
+            "sage": "e116973de4d2cce33ee0beee08aa1594e140242576a7c18f60dbf702ee847a61"
+        }
+    }
+}

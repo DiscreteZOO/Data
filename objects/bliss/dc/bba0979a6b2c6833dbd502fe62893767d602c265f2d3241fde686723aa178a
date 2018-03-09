@@ -1,0 +1,45 @@
+{
+    "graph": {
+        "average_degree": 6.0, 
+        "chromatic_index": 7, 
+        "clique_number": 7, 
+        "connected_components_number": 3, 
+        "data": ":T__@_@A_@AB_@ABC_@ABCDgFfGfGHfGHIfGHIJfGHIJKnMmNmNOmNOPmNOPQmNOPQR", 
+        "girth": 3, 
+        "has_multiple_edges": false, 
+        "is_arc_transitive": true, 
+        "is_bipartite": false, 
+        "is_cayley": false, 
+        "is_distance_regular": false, 
+        "is_distance_transitive": false, 
+        "is_edge_transitive": true, 
+        "is_eulerian": false, 
+        "is_forest": false, 
+        "is_hamiltonian": false, 
+        "is_overfull": true, 
+        "is_partial_cube": false, 
+        "is_regular": true, 
+        "is_split": false, 
+        "is_strongly_regular": false, 
+        "is_tree": false, 
+        "is_vertex_transitive": true, 
+        "name": "3K7", 
+        "number_of_loops": 0, 
+        "odd_girth": 3, 
+        "order": 21, 
+        "size": 63, 
+        "triangles_count": 105
+    }, 
+    "graph_vt": {
+        "vt_index": 44
+    }, 
+    "object": {
+        "alias": [
+            "3K7"
+        ], 
+        "unique_id": {
+            "bliss": "dcbba0979a6b2c6833dbd502fe62893767d602c265f2d3241fde686723aa178a", 
+            "sage": "c8613f821f76b5bcf88ef9ca512c9a3208b17340481f124e283538fb7cce38f4"
+        }
+    }
+}

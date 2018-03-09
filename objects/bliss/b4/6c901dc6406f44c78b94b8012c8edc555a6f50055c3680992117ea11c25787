@@ -1,0 +1,57 @@
+{
+    "_ref": [
+        [
+            "bliss", 
+            "52333371cbe24b36a21826125e7cbdac9ec8f60cb3c825115202aac131e84629"
+        ]
+    ], 
+    "graph": {
+        "average_degree": 3.0, 
+        "clique_number": 3, 
+        "connected_components_number": 1, 
+        "data": ":Wa@`A`baccFdedHeIfghLiMlNmOjkR_RS_P_QU", 
+        "diameter": 6, 
+        "girth": 3, 
+        "has_multiple_edges": false, 
+        "is_arc_transitive": false, 
+        "is_bipartite": false, 
+        "is_cayley": true, 
+        "is_distance_regular": false, 
+        "is_distance_transitive": false, 
+        "is_edge_transitive": false, 
+        "is_eulerian": false, 
+        "is_forest": false, 
+        "is_hamiltonian": true, 
+        "is_overfull": false, 
+        "is_partial_cube": false, 
+        "is_regular": true, 
+        "is_split": false, 
+        "is_strongly_regular": false, 
+        "is_tree": false, 
+        "is_vertex_transitive": true, 
+        "name": "Truncated Cube", 
+        "number_of_loops": 0, 
+        "odd_girth": 3, 
+        "order": 24, 
+        "size": 36, 
+        "triangles_count": 8
+    }, 
+    "graph_cvt": {
+        "cvt_index": 8, 
+        "is_moebius_ladder": false, 
+        "is_prism": false, 
+        "is_spx": false
+    }, 
+    "graph_vt": {
+        "vt_index": 25
+    }, 
+    "object": {
+        "alias": [
+            "Truncated Cube"
+        ], 
+        "unique_id": {
+            "bliss": "b46c901dc6406f44c78b94b8012c8edc555a6f50055c3680992117ea11c25787", 
+            "sage": "aeb1856973b8f9875abaf6dd46ed44b2b5098581712da6e1d7972ad42575e186"
+        }
+    }
+}

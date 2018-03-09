@@ -1,0 +1,47 @@
+{
+    "graph": {
+        "average_degree": 4.0, 
+        "chromatic_index": 5, 
+        "clique_number": 5, 
+        "connected_components_number": 1, 
+        "data": ":Da@_Q_QN", 
+        "diameter": 1, 
+        "girth": 3, 
+        "has_multiple_edges": false, 
+        "is_arc_transitive": true, 
+        "is_bipartite": false, 
+        "is_cayley": true, 
+        "is_distance_regular": false, 
+        "is_distance_transitive": false, 
+        "is_edge_transitive": true, 
+        "is_eulerian": true, 
+        "is_forest": false, 
+        "is_hamiltonian": true, 
+        "is_overfull": true, 
+        "is_partial_cube": false, 
+        "is_regular": true, 
+        "is_split": true, 
+        "is_strongly_regular": false, 
+        "is_tree": false, 
+        "is_vertex_transitive": true, 
+        "name": "5-Clique", 
+        "number_of_loops": 0, 
+        "odd_girth": 3, 
+        "order": 5, 
+        "size": 10, 
+        "triangles_count": 10
+    }, 
+    "graph_vt": {
+        "vt_index": 3
+    }, 
+    "object": {
+        "alias": [
+            "5-Clique", 
+            "K5"
+        ], 
+        "unique_id": {
+            "bliss": "f19f5068f8c669d39512cc0bee910753a7f403c019b033a87c5e48656f24fc4e", 
+            "sage": "f19f5068f8c669d39512cc0bee910753a7f403c019b033a87c5e48656f24fc4e"
+        }
+    }
+}

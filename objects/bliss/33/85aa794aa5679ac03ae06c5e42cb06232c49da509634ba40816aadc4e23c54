@@ -1,0 +1,46 @@
+{
+    "graph": {
+        "average_degree": 4.0, 
+        "clique_number": 3, 
+        "connected_components_number": 1, 
+        "data": ":[a@`A`B`AbCaDcEdFeGfHgIhJiKjLkMlNmOnPoQpRqSrT_SU_TV_UW_VXY", 
+        "diameter": 7, 
+        "girth": 3, 
+        "has_multiple_edges": false, 
+        "is_arc_transitive": false, 
+        "is_bipartite": false, 
+        "is_cayley": true, 
+        "is_distance_regular": false, 
+        "is_distance_transitive": false, 
+        "is_edge_transitive": false, 
+        "is_eulerian": true, 
+        "is_forest": false, 
+        "is_hamiltonian": true, 
+        "is_overfull": false, 
+        "is_partial_cube": false, 
+        "is_regular": true, 
+        "is_split": false, 
+        "is_strongly_regular": false, 
+        "is_tree": false, 
+        "is_vertex_transitive": true, 
+        "name": "14-Antiprism", 
+        "number_of_loops": 0, 
+        "odd_girth": 3, 
+        "order": 28, 
+        "size": 56, 
+        "triangles_count": 28
+    }, 
+    "graph_vt": {
+        "vt_index": 48
+    }, 
+    "object": {
+        "alias": [
+            "14-Antiprism", 
+            "W14"
+        ], 
+        "unique_id": {
+            "bliss": "3385aa794aa5679ac03ae06c5e42cb06232c49da509634ba40816aadc4e23c54", 
+            "sage": "b8ae06193805860df62a6225ba9e3cae94923f8e17525f4edc0a6696322d4eab"
+        }
+    }
+}

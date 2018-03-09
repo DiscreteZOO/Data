@@ -1,0 +1,49 @@
+{
+    "graph": {
+        "average_degree": 3.0, 
+        "clique_number": 4, 
+        "connected_components_number": 5, 
+        "data": ":S__@_@AdCcDcDEhGgHgHIlKkLkLMpOoPoPQ", 
+        "girth": 3, 
+        "has_multiple_edges": false, 
+        "is_arc_transitive": true, 
+        "is_bipartite": false, 
+        "is_cayley": false, 
+        "is_distance_regular": false, 
+        "is_distance_transitive": false, 
+        "is_edge_transitive": true, 
+        "is_eulerian": false, 
+        "is_forest": false, 
+        "is_hamiltonian": false, 
+        "is_overfull": false, 
+        "is_partial_cube": false, 
+        "is_regular": true, 
+        "is_split": false, 
+        "is_strongly_regular": false, 
+        "is_tree": false, 
+        "is_vertex_transitive": true, 
+        "name": "5K4", 
+        "number_of_loops": 0, 
+        "odd_girth": 3, 
+        "order": 20, 
+        "size": 30, 
+        "triangles_count": 20
+    }, 
+    "graph_cvt": {
+        "is_moebius_ladder": false, 
+        "is_prism": false, 
+        "is_spx": false
+    }, 
+    "graph_vt": {
+        "vt_index": 17
+    }, 
+    "object": {
+        "alias": [
+            "5K4"
+        ], 
+        "unique_id": {
+            "bliss": "fc98cbdd08e39e1482e01fee5fedcaf8d496ef03abc83347c020fbcfab8891be", 
+            "sage": "ed099396d9a0501f6d39fbf1e80782d4d31670a8cfbb9bd6e7294590ab6e5a39"
+        }
+    }
+}

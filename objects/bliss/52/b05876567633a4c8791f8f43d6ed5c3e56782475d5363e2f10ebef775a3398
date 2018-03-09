@@ -1,0 +1,54 @@
+{
+    "graph": {
+        "average_degree": 3.0, 
+        "clique_number": 2, 
+        "connected_components_number": 1, 
+        "data": ":KgCSPQFC[wEN?iGCP", 
+        "diameter": 3, 
+        "girth": 4, 
+        "has_multiple_edges": false, 
+        "is_arc_transitive": false, 
+        "is_bipartite": true, 
+        "is_cayley": true, 
+        "is_distance_regular": false, 
+        "is_distance_transitive": false, 
+        "is_edge_transitive": false, 
+        "is_eulerian": false, 
+        "is_forest": false, 
+        "is_hamiltonian": true, 
+        "is_overfull": false, 
+        "is_partial_cube": false, 
+        "is_regular": true, 
+        "is_split": false, 
+        "is_strongly_regular": false, 
+        "is_tree": false, 
+        "is_vertex_transitive": true, 
+        "name": "Franklin graph", 
+        "number_of_loops": 0, 
+        "order": 12, 
+        "size": 18, 
+        "triangles_count": 0
+    }, 
+    "graph_cvt": {
+        "cvt_index": 4, 
+        "is_moebius_ladder": false, 
+        "is_prism": false, 
+        "is_spx": true
+    }, 
+    "graph_spx": {
+        "spx_r": 3, 
+        "spx_s": 1
+    }, 
+    "graph_vt": {
+        "vt_index": 7
+    }, 
+    "object": {
+        "alias": [
+            "Franklin graph"
+        ], 
+        "unique_id": {
+            "bliss": "52b05876567633a4c8791f8f43d6ed5c3e56782475d5363e2f10ebef775a3398", 
+            "sage": "cf088769e95020274ba41e825cac85fd42fcd952ed258b20cc4c50547a46b7e6"
+        }
+    }
+}

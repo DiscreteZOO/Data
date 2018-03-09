@@ -1,0 +1,46 @@
+{
+    "graph": {
+        "average_degree": 4.0, 
+        "clique_number": 3, 
+        "connected_components_number": 1, 
+        "data": ":Ga@aR_bcclDZ", 
+        "diameter": 2, 
+        "girth": 3, 
+        "has_multiple_edges": false, 
+        "is_arc_transitive": false, 
+        "is_bipartite": false, 
+        "is_cayley": true, 
+        "is_distance_regular": false, 
+        "is_distance_transitive": false, 
+        "is_edge_transitive": false, 
+        "is_eulerian": true, 
+        "is_forest": false, 
+        "is_hamiltonian": true, 
+        "is_overfull": false, 
+        "is_partial_cube": false, 
+        "is_regular": true, 
+        "is_split": false, 
+        "is_strongly_regular": false, 
+        "is_tree": false, 
+        "is_vertex_transitive": true, 
+        "name": "4-Antiprism", 
+        "number_of_loops": 0, 
+        "odd_girth": 3, 
+        "order": 8, 
+        "size": 16, 
+        "triangles_count": 8
+    }, 
+    "graph_vt": {
+        "vt_index": 9
+    }, 
+    "object": {
+        "alias": [
+            "4-Antiprism", 
+            "W4"
+        ], 
+        "unique_id": {
+            "bliss": "5014db4bbc6a8c7fc8bc6238897c4dbba4ca5f4763e096810b1ef6bb480c02ea", 
+            "sage": "28858377baea0cc0e26e5fa628447b0889888a7a697cbe170b44eed3ca1cd915"
+        }
+    }
+}
