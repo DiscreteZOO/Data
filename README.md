@@ -1,4 +1,4 @@
-# DiscreteZOO-data
+# Data
 
 Data and contributions for DiscreteZOO
 
